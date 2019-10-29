@@ -1,4 +1,5 @@
 # Home
 
-- [Link 1](link1.md)
-- 
+```bash
+bundle exec jekyll serve
+```
