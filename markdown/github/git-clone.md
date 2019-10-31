@@ -1,4 +1,4 @@
-## Install
+## git clone
 
 ```bash
 cd <your/working/dir>
