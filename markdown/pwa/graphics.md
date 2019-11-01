@@ -1,4 +1,4 @@
-## Assets
+## Graphics
 
 PhotoShop, SVG, Sketch, EPS, vector graphics
 
