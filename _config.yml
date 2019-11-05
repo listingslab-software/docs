@@ -1,6 +1,5 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Listingslab Docs
+logo: /assets/img/logo192.png
+description: Globally Relevant JavaScript Engineering.
+show_downloads: false
 theme: jekyll-theme-minimal
