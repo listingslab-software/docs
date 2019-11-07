@@ -1,4 +1,13 @@
-[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://storybook.js.org/)
+[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://storybook.js.org)
+
+[Storybook](https://storybook.js.org) is what the cool kids are using
+as part of design systems. Trouble is; the cool kids are oftem morons,
+so it often gets used badly.
+
+Having seen it being more trouble than it was worth, I'm not evangelising.
+It's not going to change your life.
+
+But it is quite useful, and it looks cool. Which is important.
 
 ## The Bad
 
@@ -10,8 +19,9 @@ always available to be useful.
 
 ## The Good
 
-- It's easy to knock up and share ideas quickly
-- Components can be connected to real services like auth etc
+- Easy to knock up and share ideas quickly
+- Stories can be connected to real services like auth etc
+- Great for responsive development, letting you set custom viewport sizes
 
 ## The Even Better
 
