@@ -10,11 +10,8 @@ It's not going to change your life. But it is quite useful. And it looks cool. W
 
 ## The Bad
 
-Like any environment where experimentation is encouraged,
-It's quite easy to leave storybook broken or get halfway
-through some component and then move it into some other
-project or whatever. Storybook needs to be curated and
-always available to be useful.
+Like any environment where experimentation is encouraged, It's quite easy to leave storybook broken or get halfway
+through some component and then move it into some other project or whatever. Storybook needs to be curated and always available to be useful.
 
 ## The Good
 
@@ -24,9 +21,7 @@ always available to be useful.
 
 ## The Even Better
 
-Even betterer would be when a storybook repo could double as a GitHub package.
-Properly linted and CI'd, the package could be used across multiple projects
-while keeping the development and QA of UI components away from places that matter.
+Even betterer would be when a storybook repo could double as a GitHub package. Properly linted and CI'd, the package could be used across multiple projects while keeping the development and QA of UI components away from places that matter.
 
 ## What IS Storybook?
 
