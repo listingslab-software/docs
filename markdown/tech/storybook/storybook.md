@@ -1,8 +1,8 @@
 # Storybook
 
-[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://storybook.js.org)
-
 ![Just like in the Matrix](https://firebasestorage.googleapis.com/v0/b/listingslab-storybook.appspot.com/o/png%2fstorybook_matrix_construct.png?alt=media&token=172b8689-20bf-4c45-b2f5-cb128969761d)
+
+[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://storybook.js.org)
 
 [Storybook](https://storybook.js.org) is what the cool kids are using as part of design systems. Trouble is; the cool kids are oftem morons, so it often gets used badly. Having seen it being more trouble than it was worth, I'm not evangelising. It's not going to change your life. But it is quite useful. And it looks cool. Which is important.
 
