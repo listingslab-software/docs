@@ -1,4 +1,4 @@
-# Contributing to The Minimal Theme
+## Contributing to The Minimal Theme
 
 Hi there! We're thrilled that you'd like to contribute to The Minimal Theme. Your help is essential for keeping it great.
 

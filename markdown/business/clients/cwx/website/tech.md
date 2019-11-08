@@ -1,4 +1,4 @@
-# Tech
+## Tech
 
 - React
 - Material Design

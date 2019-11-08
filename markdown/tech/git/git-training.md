@@ -1,4 +1,4 @@
-# Git Guidelines
+## Git Guidelines
 
 > **Branch name guidelines** Keep 'em short, keep 'em relevant
 

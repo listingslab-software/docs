@@ -1,5 +1,4 @@
-
-# Website
+## Website
 
 Whitelabel PWA Demo
 
