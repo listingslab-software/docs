@@ -4,9 +4,9 @@ layout: default
 
 #### Tech Stack
 
-- [Storybook](/markdown/storybook/storybook)
-- [Firebase](/markdown/firebase/firebase)
-  - [Firestore](/markdown/firebase/firestore)
-- [Git](/markdown/git/git)
-- [Docker](/markdown/docker/docker)
-  - [Cheatsheet](/markdown/docker/cheatsheet)
+- [Storybook](/markdown/tech/storybook/storybook)
+- [Firebase](/markdown/tech/firebase/firebase)
+  - [Firestore](/markdown/tech/firebase/firestore)
+- [Git](/markdown/tech/git/git)
+- [Docker](/markdown/tech/docker/docker)
+  - [Cheatsheet](/markdown/tech/docker/cheatsheet)
