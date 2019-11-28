@@ -1,4 +1,4 @@
-# About scopes
+## NPM scopes
 
 https://docs.npmjs.com/about-scopes
 

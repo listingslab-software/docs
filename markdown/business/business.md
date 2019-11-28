@@ -1,4 +1,4 @@
-# Business
+## Business
 
 - [About listingslab](./about-listingslab.md)
 - [Backlog](./backlog.md)

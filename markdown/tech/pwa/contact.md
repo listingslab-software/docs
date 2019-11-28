@@ -1,4 +1,4 @@
-# Contact
+## Contact
 
 Contact forms have been a stable feature of practically every website since the beginning and that is unlikely to change any time soon. It's generally the main goal of a public facing web-presence; to initiate contact with an audience. 
 

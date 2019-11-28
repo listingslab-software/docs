@@ -1,4 +1,3 @@
-
-# CWX
+## CWX
 
 - [Website](./website.md)
