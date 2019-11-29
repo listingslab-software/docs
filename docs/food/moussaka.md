@@ -1,7 +1,7 @@
 ## Moussaka
 
 Portions: 10
-Time: all fucken day.
+Time: All day.
 
 ![Featured Image](images/moussaka.jpg "Featured Image")
 
