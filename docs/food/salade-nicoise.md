@@ -1,6 +1,6 @@
 ## Salade niçoise
 
-![Featured Image][salade-nicoise.jpg]
+![Featured Image](images/salade-nicoise.jpg "Featured Image")
 
 ### Ingredients
 

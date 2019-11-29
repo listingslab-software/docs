@@ -1,6 +1,6 @@
 ## Banana Bread
 
-![Featured Image](banana-bread.jpg "Featured Image")
+![Featured Image](images/banana-bread.jpg "Featured Image")
 
 ### Ingredients
 
