@@ -3,6 +3,8 @@
 Portions: 10
 Time: all fucken day.
 
+![Featured Image](images/moussaka.jpg "Featured Image")
+
 ## Ingredients
 
 - 3 large eggplants
@@ -14,7 +16,7 @@ Time: all fucken day.
 - celery
 - carrot
 - 250g potato (sliced)
-- 
+-
 
 #### meat sauce
 
@@ -23,3 +25,5 @@ Time: all fucken day.
 ## Method
 
 Prepare the containers. If you wish to freeze the dish, an alufoil container works well as it can be easily heated up in an oven.
+
+[UP](../index)

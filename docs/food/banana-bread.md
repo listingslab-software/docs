@@ -1,7 +1,5 @@
 ## Banana Bread
 
-![Featured Image](images/banana-bread.jpg "Featured Image")
-
 ### Ingredients
 
 - 125g Butter
@@ -14,6 +12,8 @@
 - 1 tsp Bicarb of (baking) soda
 - 1 tsp Ground cinnamon
 - ⅓ CUP (115g) Golden Syrup
+
+![Featured Image](images/banana-bread.jpg "Featured Image")
 
 ### Method
 
@@ -36,4 +36,4 @@
 
 [source](https://www.donnahay.com.au/recipes/banana-bread)
 
-[UP](../)
+[UP](../index)
