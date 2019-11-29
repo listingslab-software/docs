@@ -6,8 +6,10 @@
 
 var fs = require("fs");
 var path = require("path");
+// https://docs.listingslab.com/docs/
+var baseURL = "https://.../docs/";
 
-function makeJSON(params) {
+function makeHTML(params) {
   var success = true;
   var result = {
     success,
@@ -24,11 +26,15 @@ var walk = function(dir) {
   var list = fs.readdirSync(dir);
   list.forEach(function(file) {
     file = dir + "/" + file;
+    fileStr = file.toString();
+    fileStr = fileStr.substring(2, fileStr.length);
+    fileStr = fileStr.substring(0, fileStr.length - 3);
+    html = "<li>" + baseURL + fileStr + "</li>\n\n";
     var stat = fs.statSync(file);
     if (stat && stat.isDirectory()) {
       results = results.concat(walk(file));
     } else {
-      results.push(file);
+      results.push(html);
     }
   });
   return results;
@@ -40,4 +46,4 @@ function logResult(result) {
   console.log("\n");
 }
 
-makeJSON(`please makeHTML`);
+makeHTML(`Please makeHTML`);

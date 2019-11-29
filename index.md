@@ -2,20 +2,6 @@
 layout: default
 ---
 
-#### Business
-
-- [About listingslab](docs/business/about-listingslab)
-  - [Clients](docs/business/clients/clients)
-- [Glassdoor](docs/business/glassdoor/glassdoor)
-
-#### ChuckenGotchi
-
-- [How to play](docs/chuckengotchi/gameplay)=
-  - [Chucken Breeds](docs/chuckengotchi/breeds)
-  - [Chucken lifecycle](docs/chuckengotchi/lifecycle)
-  - [Tamagotchi](docs/chuckengotchi/tamagotchi)
-  - [ChuckenGotchi Tech Stack](docs/chuckengotchi/tech)
-
 #### Food
 
 - [Banana Bread](docs/food/banana-bread)
@@ -32,10 +18,24 @@ layout: default
 - [Firebase](docs/tech/firebase/firebase)
   - [Firestore](docs/tech/firebase/firestore)
 - [Git](docs/tech/git/git)
-  - [jekyll](docs/tech/git/jekyll)
-  - [Install & Use Jekyll](docs/tech/git/jekyll/jekyll-how-to)
-  - [Styleguide](docs/tech/git/jekyll/styleguide)
+  - [Jekyll theme](docs/tech/git/jekyll)
+  - [Installing & Use Jekyll](docs/tech/git/jekyll/jekyll-how-to)
+  - [Markdown Styleguide](docs/tech/git/jekyll/styleguide)
   - [Contributor Covenant Code of Conduct](docs/tech/git/code-of-conduct)
+
+#### ChuckenGotchi
+
+- [How to play](docs/chuckengotchi/gameplay)=
+  - [Breeds](docs/chuckengotchi/breeds)
+  - [Lifecycle](docs/chuckengotchi/lifecycle)
+  - [Tamagotchi](docs/chuckengotchi/tamagotchi)
+  - [Technology](docs/chuckengotchi/tech)
+
+#### Business
+
+- [About listingslab](docs/business/about-listingslab)
+  - [Clients](docs/business/clients/clients)
+- [Glassdoor](docs/business/glassdoor/glassdoor)
 
 #### Other
 
