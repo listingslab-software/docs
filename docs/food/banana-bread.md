@@ -1,6 +1,6 @@
 ## Banana Bread
 
-![Featured Image][banana-bread.jpg]
+![Featured Image](banana-bread.jpg "Featured Image")
 
 ### Ingredients
 
@@ -35,3 +35,5 @@
    Slice and serve with the extra butter. Serves 6–8.
 
 [source](https://www.donnahay.com.au/recipes/banana-bread)
+
+[^ UP ^](../)

@@ -1,3 +1,0 @@
-## Food
-
-- [Moussaka](moussaka)
