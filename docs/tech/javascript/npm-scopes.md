@@ -1,6 +1,6 @@
 ## NPM scopes
 
-https://docs.npmjs.com/about-scopes
+[npmjs.com](https://docs.npmjs.com/about-scopes)
 
 When you sign up for an npm user account or create an Org, you are granted a scope that matches your user or Org name. You can use this scope as a namespace for related packages.
 

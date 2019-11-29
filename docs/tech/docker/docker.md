@@ -1,3 +1,3 @@
 # Docker
 
-- [Cheatsheet](./cheatsheet.md)
+- [Cheatsheet](cheatsheet)
