@@ -1,5 +1,7 @@
 ## Banana Bread
 
+![Featured Image][banana-bread.jpg]
+
 - 125g Butter
 - 175g Brown sugar
 - 1 tsp Vanilla extract or paste

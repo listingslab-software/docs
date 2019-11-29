@@ -19,6 +19,7 @@ layout: default
 #### Food
 
 - [Banana Bread](docs/food/banana-bread)
+- [Salade niçoise](docs/food/salade-nicoise)
 - [Moussaka](docs/food/moussaka)
 
 #### Technology
