@@ -6,18 +6,16 @@
 
 var fs = require("fs");
 var path = require("path");
-// https://docs.listingslab.com/docs/
-var baseURL = "https://.../docs/";
+var baseURL = "https://docs.listingslab.com/docs/";
 
 function makeHTML(params) {
-  var success = true;
   var result = {
-    success,
-    params,
-    dir: walk(`.`)
+    docs: walk(`.`)
   };
+  var resultHTML = "<ul>List</ul>";
   logResult(result);
-  fs.writeFileSync("index.html", JSON.stringify(result));
+
+  fs.writeFileSync("index.html", resultHTML);
   return result;
 }
 
@@ -29,7 +27,7 @@ var walk = function(dir) {
     fileStr = file.toString();
     fileStr = fileStr.substring(2, fileStr.length);
     fileStr = fileStr.substring(0, fileStr.length - 3);
-    html = "<li>" + baseURL + fileStr + "</li>\n\n";
+    html = "<li>" + baseURL + fileStr + "</li>";
     var stat = fs.statSync(file);
     if (stat && stat.isDirectory()) {
       results = results.concat(walk(file));
