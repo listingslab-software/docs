@@ -2,6 +2,8 @@
 
 ![Featured Image][banana-bread.jpg]
 
+### Ingredients
+
 - 125g Butter
 - 175g Brown sugar
 - 1 tsp Vanilla extract or paste
@@ -12,6 +14,8 @@
 - 1 tsp Bicarb of (baking) soda
 - 1 tsp Ground cinnamon
 - ⅓ CUP (115g) Golden Syrup
+
+### Method
 
 1. Preheat oven to 160°C
    Place the butter, sugar and vanilla in an electric mixer and
