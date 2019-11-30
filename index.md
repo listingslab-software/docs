@@ -51,7 +51,6 @@ runProgramme({
 #### Business
 
 - [About listingslab](docs/business/about-listingslab)
-  - [Clients](docs/business/clients/clients)
 - [Glassdoor](docs/business/glassdoor/glassdoor)
 
 #### [Recipes](docs/food)
