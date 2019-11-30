@@ -1,5 +1,7 @@
 # Get Started
 
+![Featured Image](images/apple-touch-icon-180x180.png "Featured Image")
+
 1. Clone or fork repo into your working directory
 2. Branch off it with your own branch name
 3. Install dependencies & run
