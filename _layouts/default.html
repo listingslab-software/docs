@@ -31,19 +31,24 @@
 <body>
     <div class="wrapper">
         <header>
+                <a href="{{ "/" | absolute_url }}">
+                    <img alt="Listingslab Docs Home" src="/assets/img/fancy-spade.png" />
+                </a>
             <h1>
-                <img alt="Fancy Spade" src="/assets/img/fancy-spade.png" />
                 <a href="{{ "/" | absolute_url }}">
                     {{ site.title | default: site.github.repository_name }}
                 </a>
             </h1>
             <p>{{ site.description | default: site.github.project_tagline }}</p>
-            <div id="react-menu">two</div>
+            
+            <div id="react-menu">
+                two
+            </div>
             <script>
                 var el = document.getElementById('react-menu');
                 el.innerHTML = '';
             </script>
-
+            
         </header>
         <section>
             {{ content }}
