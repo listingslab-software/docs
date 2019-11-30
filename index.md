@@ -20,7 +20,7 @@ layout: default
 
 #### ChuckenGotchi
 
-- [How to play](docs/chuckengotchi/gameplay)=
+- [How to play](docs/chuckengotchi/gameplay)
   - [Breeds](docs/chuckengotchi/breeds)
   - [Lifecycle](docs/chuckengotchi/lifecycle)
   - [Tamagotchi](docs/chuckengotchi/tamagotchi)
