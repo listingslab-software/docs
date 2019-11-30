@@ -1,5 +1,5 @@
 title: Docs
 logo: /assets/img/logo192.png
-description: Globally Relevant Docs
-show_downloads: false
+description: Listingslab's Markdown Documentation
+show_downloads: true
 theme: jekyll-theme-minimal
