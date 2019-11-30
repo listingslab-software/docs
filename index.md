@@ -2,12 +2,20 @@
 layout: default
 ---
 
-```bash
-   ___    __  _               __     __
-  / (_)__/ /_(_)__  ___ ____ / /__ _/ /
- / / (_-< __/ / _ \/ _ `(_-</ / _ `/ _ \
-/_/_/___|__/_/_//_/\_, /___/_/\_,_/_.__/
-                  /___/
+```javascript
+
+import runProgramme from "./Programme";
+
+const javaScriptExperience = {
+  years: 20,
+  bullShitting: false
+};
+
+runProgramme({
+  spelling: `uk`,
+  level: `beginner`
+  javaScriptExperience
+});
 
 ```
 
