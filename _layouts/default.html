@@ -32,13 +32,18 @@
     <div class="wrapper">
         <header>
                 <a href="{{ "/" | absolute_url }}">
-                    <img width="75" alt="Listingslab Docs Home" src="/assets/img/fancy-spade.png" />
+                    <img 
+                        style="width: 75px; float: left;""
+                        alt="Listingslab Docs Home" 
+                        src="/assets/img/fancy-spade.png" 
+                    />
                 </a>
             <h1>
                 <a href="{{ "/" | absolute_url }}">
                     {{ site.title | default: site.github.repository_name }}
                 </a>
             </h1>
+
             <p>{{ site.description | default: site.github.project_tagline }}</p>
             
             <div id="react-menu">

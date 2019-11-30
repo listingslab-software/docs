@@ -3,7 +3,6 @@ layout: default
 ---
 
 ```javascript
-
 import runProgramme from "./Programme";
 
 const javaScriptExperience = {
@@ -13,10 +12,9 @@ const javaScriptExperience = {
 
 runProgramme({
   spelling: `uk`,
-  level: `beginner`
+  level: `start`,
   javaScriptExperience
 });
-
 ```
 
 #### Open Source
