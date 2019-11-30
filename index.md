@@ -2,12 +2,6 @@
 layout: default
 ---
 
-#### [Food](docs/food)
-
-- [Banana Bread](docs/food/banana-bread)
-- [Salade niçoise](docs/food/salade-nicoise)
-- [Moussaka](docs/food/moussaka)
-
 #### Open Source
 
 - [Iconduit](docs/iconduit)
@@ -37,6 +31,12 @@ layout: default
 - [About listingslab](docs/business/about-listingslab)
   - [Clients](docs/business/clients/clients)
 - [Glassdoor](docs/business/glassdoor/glassdoor)
+
+#### [Recipes](docs/food)
+
+- [Banana Bread](docs/food/banana-bread)
+- [Salade niçoise](docs/food/salade-nicoise)
+- [Moussaka](docs/food/moussaka)
 
 #### Other
 
