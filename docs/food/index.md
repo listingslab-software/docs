@@ -4,4 +4,4 @@
 - [Salade niçoise](salade-nicoise)
 - [Moussaka](moussaka)
 
-[^ UP ^](../)
+[UP](../)
