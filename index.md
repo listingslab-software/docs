@@ -2,6 +2,14 @@
 layout: default
 ---
 
+#### [JavaScript](docs/tech/javascript/javascript)
+
+- [React](docs/tech/javascript/react)
+- [Node](docs/tech/javascript/node)
+- [Vanilla JS](docs/tech/javascript/vanilla)
+- [Firebase](docs/tech/firebase/firebase)
+  - [Firestore](docs/tech/firebase/firestore)
+
 ```javascript
 import runProgramme from "./Programme";
 
@@ -20,13 +28,12 @@ runProgramme({
 #### Open Source
 
 - [Iconduit](docs/iconduit)
-- [JavaScript](docs/tech/javascript/javascript)
-  - [Storybook](docs/tech/storybook/storybook)
-  - [NPM Scopes](docs/tech/javascript/npm-scopes)
+- [Storybook](docs/tech/storybook/storybook)
+- [NPM Scopes](docs/tech/open-source/npm-scopes)
 - [Docker](docs/tech/docker/docker)
+
   - [Cheatsheet](docs/tech/docker/cheatsheet)
-- [Firebase](docs/tech/firebase/firebase)
-  - [Firestore](docs/tech/firebase/firestore)
+
 - [Git](docs/tech/git/git)
   - [Jekyll theme](docs/tech/git/jekyll)
   - [Installing & Use Jekyll](docs/tech/git/jekyll/jekyll-how-to)

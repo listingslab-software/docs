@@ -1,20 +1,7 @@
 ## JavaScript
 
-```javascript
-
-import runProgramme from "./Programme";
-
-const javaScriptExperience = {
-  years: 20,
-  bullShitting: false
-};
-
-runProgramme({
-  spelling: `uk`,
-  level: `beginner`
-  javaScriptExperience
-});
-
-```
-
-- [NPM scopes](npm-scopes)
+- [React](react)
+- [Node](node)
+- [Vanilla JS](vanilla)
+- [Firebase](../tech/firebase/firebase)
+  - [Firestore](../tech/firebase/firestore)
