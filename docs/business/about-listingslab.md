@@ -1,3 +1,5 @@
+## About Listingslab
+
 ```bash
    ___    __  _               __     __
   / (_)__/ /_(_)__  ___ ____ / /__ _/ /
@@ -41,9 +43,8 @@ Replicating this part will need Firebase.
 
 - [Storybook Design System](https://storybook.listingslab.com)
 - [Content Management System](https://api.istingslab.com)
-- [file-o-matic](https://docs.listingslab.com)
-=======
-Replicating this Project will need Firebase,
+- # [file-o-matic](https://docs.listingslab.com)
+  Replicating this Project will need Firebase,
 
 ### Features
 
