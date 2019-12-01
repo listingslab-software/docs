@@ -34,7 +34,7 @@ Easily the worst place I have ever worked in my entire career. Micromanagement, 
 
 Advice to employees who read these reviews - stand up for yourselves and fellow employees.
 
-__Fake__["Remarkable Opportunity"](https://www.glassdoor.com.au/Reviews/Employee-Review-Rex-Software-RVW24143348.htm)
+**Fake**["Remarkable Opportunity"](https://www.glassdoor.com.au/Reviews/Employee-Review-Rex-Software-RVW24143348.htm)
 
 ### Score 5/5
 
@@ -42,7 +42,7 @@ __Fake__["Remarkable Opportunity"](https://www.glassdoor.com.au/Reviews/Employee
 - Recommends
 - Positive Outlook
 
->  I worked at Rex Software full-time for more than 3 years
+> I worked at Rex Software full-time for more than 3 years
 
 ### Pros
 
@@ -55,3 +55,5 @@ Main cons, from experience: 1. You don't get overtime or equivalent (hope this c
 ### Advice to Management
 
 Keep up each of your personal efforts in remaining sane.
+
+[UP](../)

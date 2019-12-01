@@ -6,3 +6,5 @@ Stop / remove all of Docker containers:
 docker stop $(docker ps -a -q)
 docker rm $(docker ps -a -q)
 ```
+
+[UP](../)

@@ -1,5 +1,5 @@
 # Node
 
-## Vot is?
+## Vot is Node JS?
 
-[UP](index)
+[UP](../)

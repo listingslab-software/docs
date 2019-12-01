@@ -1,4 +1,6 @@
-## Salade niçoise
+## Salade nicoise
+
+(niçoise)
 
 ### Ingredients
 
@@ -22,4 +24,4 @@ Boil eggs for 4 minutes, then run under cold water to stop the cooking. Peel and
 
 [Source](https://www.stephaniealexander.com.au/what-to-cook/recipes/salade-nicoise/)
 
-[UP](../index)
+[UP](../)

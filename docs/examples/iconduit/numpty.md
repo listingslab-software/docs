@@ -4,4 +4,4 @@
 
 ## What can the world also mean?
 
-[UP](index)
+[UP](../)

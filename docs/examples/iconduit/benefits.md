@@ -7,4 +7,4 @@ List of reasons a developer might use Iconduit;
 - Notifies you when the world of PWA changes it's mind
 - More cool stuff
 
-[UP](index)
+[UP](../)

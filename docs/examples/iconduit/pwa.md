@@ -23,4 +23,4 @@ Functionality includes working offline, push notifications, and device hardware 
 
 > **Key concept**: There is no requirement for developers or users to install the web apps via digital distribution systems like Apple App Store or Google Play.
 
-[UP](index)
+[UP](../)

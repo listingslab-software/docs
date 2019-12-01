@@ -1,6 +1,4 @@
----
-layout: default
----
+## Markdown Examples
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -25,9 +23,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
+  dateformat.i18n = require("./lang/" + l);
   return true;
-}
+};
 ```
 
 ```ruby
@@ -39,9 +37,9 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -52,7 +50,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -60,14 +58,14 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Item foo
+- Item bar
+- Item baz
+- Item zip
 
 ### And an ordered list:
 
@@ -100,7 +98,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -121,3 +118,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+[UP](../)

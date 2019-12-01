@@ -5,3 +5,5 @@
   - [Lifecycle](lifecycle)
   - [Tamagotchi](tamagotchi)
   - [Technology](tech)
+
+[UP](../)

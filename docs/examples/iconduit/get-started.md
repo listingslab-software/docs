@@ -25,4 +25,4 @@ BeMoreSteve
 beMoreSteve (camelCase)
 ```
 
-[UP](index)
+[UP](../)
