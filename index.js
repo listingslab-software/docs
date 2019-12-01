@@ -44,7 +44,7 @@ async function runProgramme() {
   //   let indexMarkdown = `Markdown`;
   //   let indexJSON = `JSON`;
 
-  fs.writeFileSync("index.html", indexHTML);
+  fs.writeFileSync("index.nav.html", indexHTML);
   console.log("index.html completed. Zero defects\n");
 
   // fs.writeFileSync("index.md", indexMarkdown);
