@@ -41,14 +41,15 @@ async function runProgramme() {
   }
 
   let indexHTML = `<ul>${liList}</ul>`;
-  let indexMarkdown = `Markdown`;
-  let indexJSON = `JSON`;
+  //   let indexMarkdown = `Markdown`;
+  //   let indexJSON = `JSON`;
 
   fs.writeFileSync("index.html", indexHTML);
-  fs.writeFileSync("index.md", indexMarkdown);
-  fs.writeFileSync("index.json", indexJSON);
+  console.log("index.html completed. Zero defects\n");
 
-  console.log("Docs indexing completed. Zero defects\n");
+  // fs.writeFileSync("index.md", indexMarkdown);
+  // fs.writeFileSync("index.json", indexJSON);
+
   return jsonList;
 }
 
