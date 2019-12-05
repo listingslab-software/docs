@@ -8,31 +8,30 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
 
 The [repository](https://github.com/listingslab-software/docs) is of course Open Source on GitHub, and PRs are welcome.
 
-#### Progressive Web Apps Examples
+> NEW! [Raspberry Pi](docs/tech/pi)
 
-- [Iconduit](docs/examples/iconduit)
+#### Examples
+
 - [ChuckenGotchi](docs/examples/chuckengotchi)
 - [Pi Node Server](docs/tech/pi/pi-node-server)
 
-#### [JavaScript](docs/tech/javascript/javascript)
-
+#### Work
+- [JavaScript](docs/tech/javascript/javascript)
 - [React](docs/tech/javascript/react)
 - [Node](docs/tech/javascript/node)
 - [Vanilla JS](docs/tech/javascript/vanilla)
 - [Storybook](docs/tech/storybook/storybook)
-- [Firebase](docs/tech/firebase/firebase)
-
-#### [Raspberry Pi](docs/tech/pi)
-
-- [Pi Node Server](docs/tech/pi/pi-node-server)
+- [NPM](docs/tech/open-source/npm-scopes)
+- [Docker](docs/tech/docker)
+- [Git](docs/tech/git/git)
+- [Glassdoor](docs/business/glassdoor/glassdoor)
 
 #### More
 
 - [About listingslab](docs/business/about-listingslab)
-- [Glassdoor](docs/business/glassdoor/glassdoor)
-- [Why dont you?](docs/other/why-dont-you)
+- [Iconduit](docs/examples/iconduit)
 - [Recipes](docs/food)
-- [Git](docs/tech/git/git)
-- [NPM](docs/tech/open-source/npm-scopes)
-- [Docker](docs/tech/docker)
-- [Backlog](docs/other/backlog)
+- [Why dont you?](docs/other/why-dont-you)
+    
+
+##### [Backlog](docs/backlog)
