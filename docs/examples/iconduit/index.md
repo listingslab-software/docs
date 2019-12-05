@@ -2,8 +2,12 @@
 
 Find out what Iconduit does and how it can [benefit](./more/Benefits.md) you, the developer.
 
-- [Benefits](benefits)
+- [Benefits for Developer](benefits)
 - [Get Started](get-started)
+- [Use in a real world project](real-world)
+
+#### Further Reading
+
 - [Gimp](gimp)
 - [Install](install)
 - [Node](node)
