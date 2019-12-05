@@ -16,5 +16,3 @@
 ### Storybook
 
 - New story `SiteSelect.jsx`
-
-[UP](../)

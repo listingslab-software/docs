@@ -75,5 +75,3 @@ Replicating this part will need Firebase.
     - [Storybook Design System](https://storybook.listingslab.com)
     - [Content Management System](https://api.istingslab.com)
     - [file-o-matic](https://docs.listingslab.com)
-
-[UP](../)

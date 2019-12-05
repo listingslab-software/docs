@@ -9,5 +9,3 @@ A normal contact form in 2019 would have a required email field, a message box a
 ### How does listingslab PWA improve this?
 
 Email address is not a required field. That is because messages are managed on the cloud, bot via email. Messages are written and received on the app with email as a backup.
-
-[UP](../)

@@ -22,5 +22,3 @@ Progressive web applications (PWAs) are a type of application software delivered
 Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. Since they are a type of webpage or website known as a web application,
 
 > **Key concept**: There is no requirement for developers or users to install the web apps via digital distribution systems like Apple App Store or Google Play.
-
-[UP](../)

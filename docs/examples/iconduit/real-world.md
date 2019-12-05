@@ -6,4 +6,3 @@ It has a `public` dir. We wish to replace its contents with Iconduit output and 
 
 - Clone the iconduit build system
 
-[UP](../)

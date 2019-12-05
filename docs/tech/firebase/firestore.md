@@ -6,4 +6,3 @@
 exports firestoreCRUD
 ```
 
-[UP](../)

@@ -18,5 +18,3 @@ runProgramme({
 });
 
 ```
-
-[UP](../)

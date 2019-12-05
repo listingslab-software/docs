@@ -2,5 +2,3 @@
 
 - [Iconduit](iconduit)
 - [ChuckenGotchi](chuckengotchi)
-
-[UP](../)

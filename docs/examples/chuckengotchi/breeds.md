@@ -7,5 +7,3 @@
 - Duck
 - Goose
 - Golden Goose
-
-[UP](../)

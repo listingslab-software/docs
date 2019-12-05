@@ -4,5 +4,3 @@
 - [Git](git)
 - [NPM Scopes](open-source/npm-scopes)
 - [Docker](docker)
-
-[UP](../)

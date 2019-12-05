@@ -8,5 +8,3 @@ git clone https://github.com/listingslab-software/listingslab
 cd listingslab
 git checkout -b your-new-branch-name
 ```
-
-[UP](../)

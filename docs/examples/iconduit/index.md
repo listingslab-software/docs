@@ -17,4 +17,3 @@ Find out what Iconduit does and how it can [benefit](./more/Benefits.md) you, th
 - [Sketch](sketch)
 - [SVG](svg)
 
-[UP](../)

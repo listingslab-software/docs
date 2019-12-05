@@ -24,5 +24,3 @@ through some component and then move it into some other project or whatever. Sto
 ### The Even Better
 
 Even betterer would be when a storybook repo could double as a GitHub package. Properly linted and CI'd, the package could be used across multiple projects while keeping the development and QA of UI components away from places that matter.
-
-[UP](../)

@@ -55,5 +55,3 @@ Main cons, from experience: 1. You don't get overtime or equivalent (hope this c
 ### Advice to Management
 
 Keep up each of your personal efforts in remaining sane.
-
-[UP](../)

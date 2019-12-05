@@ -25,5 +25,3 @@ Time: All day.
 ## Method
 
 Prepare the containers. If you wish to freeze the dish, an alufoil container works well as it can be easily heated up in an oven.
-
-[UP](../)

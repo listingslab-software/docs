@@ -12,5 +12,3 @@
 
 - [Contributing](contributing)
 - [Code of Conduct](code-of-conduct)
-
-[UP](../)

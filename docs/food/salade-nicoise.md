@@ -23,5 +23,3 @@
 Boil eggs for 4 minutes, then run under cold water to stop the cooking. Peel and cut into quarters (the yolks should still be moist). Cover a platter with washed, dried salad leaves. Gently mix warm beans, tomato, drained tuna, potato and egg with olive oil, vinegar (if the tomatoes are not too acidic), salt and pepper and tumble onto salad leaves. Scatter olives and anchovies over and serve immediately.
 
 [Source](https://www.stephaniealexander.com.au/what-to-cook/recipes/salade-nicoise/)
-
-[UP](../)

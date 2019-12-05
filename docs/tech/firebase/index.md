@@ -1,5 +1,3 @@
 ## Firebase
 
 - [Firestore](firestore)
-
-[UP](../)

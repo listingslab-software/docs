@@ -6,5 +6,3 @@ git clone https://github.com/listingslab-software/listingslab.git
 cd listingslab
 yarn
 ```
-
-[UP](../)

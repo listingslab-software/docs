@@ -83,5 +83,3 @@ This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_C
 - [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
 - [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
 - [GitHub Help](https://help.github.com)
-
-[UP](../)

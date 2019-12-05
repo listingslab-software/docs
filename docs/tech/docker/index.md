@@ -2,4 +2,3 @@
 
 - [Cheatsheet](cheatsheet)
 
-[UP](../)
