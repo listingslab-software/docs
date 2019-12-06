@@ -1,0 +1,15 @@
+## GoPro
+
+GoPro came in around 2010 and changed everything. Suddenly everyone and his dog could shoot high quality action footage and through YouTube, publish their content to the world. That they did.
+
+Back in the day, though, it was only Charlie Davies (Charly Bob Marley) who had not only a GoPro, but also the skiing ability and the skill to put those things together.
+
+Together we made this film of skiing a run called the Gun Barrell off the top of the Grandes Montets. I am the orange jacketed skier being chased by the camera man, Charlie.
+
+It still raises my pulse to watch it
+
+<div style="padding:73.75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/35713009?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p>http://www.charliedaviesphotography.com<br />
+shot by Charlie Davies on his go Pro headcam</p>
+
+[Gun Barrell vimeo.com/35713009](https://vimeo.com/35713009)
