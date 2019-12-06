@@ -1,8 +1,10 @@
 ## Rapberry Pi
 
+![Featured Image](images/pi-logo.png "Featured Image")
+
 - [Pi Node Server](pi-node-server)
 
-![Featured Image](images/apple-touch-icon-masked-180x180.png "Featured Image")
+![Featured Image](images/github-account-icon.png "Featured Image")
 
 ### What is a Pi?
 
@@ -11,4 +13,4 @@ It is a capable little device that enables people of all ages to explore
 computing, and to learn how to program in languages like Python.
 
 It also give more experienced developers a chance to do some mad cool shit.
-We're going to turn our Pi into a node server connected to Firebase in the cloud
+We're going to turn our Pi into a node server connected to a Firebase in the cloud
