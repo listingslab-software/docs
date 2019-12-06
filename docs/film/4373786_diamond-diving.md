@@ -4,7 +4,7 @@
 
 <div style="height: 32px"></div>
 
-<p>An interview with Alex Diamond of Diamond Diving. We join Alex on the easydive Antibes dive boat where on a beautiful June day in early season we learn what kind of marine life we can expect to see in Antibes, what level of diver you have to be, and why diving in the med is all about where you dive. The Cote d&#039;Azur is in fact: a world class dive spot.</p>
+An interview with Alex Diamond of [Diamond Diving](https://www.diamonddiving.fr). We join Alex on the easydive Antibes dive boat where on a beautiful June day in early season we learn what kind of marine life we can expect to see in Antibes, what level of diver you have to be, and why diving in the med is all about where you dive. The Cote d&#039;Azur is in fact: a world class dive spot.
 
 [vimeo.com/4373786](https://vimeo.com/4373786)
 

@@ -4,12 +4,16 @@ Film, Video, Movies, Film Clips, call 'em what you like, we've been making them 
 
 ### Chamonix
 
-- [The beginning of GoPro](35713009_gopro)
+- [The beginning of GoPro, 2011](35713009_gopro)
 - [Chamonix Freeride Day 2008](981211_chamonix-freeride-day)
-- [Speed Riding the Grande Montets](1059585_grande-montets)
+- [Speed Riding the Grande Montets, 2008](1059585_grande-montets)
+
+### Diving
+
+- [Diamond Diving, Antibes, South of France](4373786_diamond-diving)
 
 ### Experimental
 
-- [Washing up time lapse](377894546_washing-up)
+- [Washing up time lapse, 2019](377894546_washing-up)
 
 [Home](../)
