@@ -32,7 +32,7 @@ The [repository](https://github.com/listingslab-software/docs) is of course Open
 ### More
 
 - [Hire listingslab](docs/business/hire-listingslab)
-- [Glassdoor](docs/business/glassdoor)
+- [Rex Software Glassdoor Review](docs/business/glassdoor)
 - [Recipes](docs/food)
     
 ##### [Backlog](docs/backlog)
