@@ -22,6 +22,7 @@ The [repository](https://github.com/listingslab-software/docs) is of course Open
 - [Vanilla JS](docs/tech/javascript/vanilla)
 - [Storybook](docs/tech/storybook/storybook)
 - [NPM](docs/tech/open-source/npm-scopes)
+- [Socket Viewer](docs/socket-viewer)
 - [Docker](docs/tech/docker)
 - [Git](docs/tech/git/git)
 - [Glassdoor](docs/business/glassdoor/glassdoor)
