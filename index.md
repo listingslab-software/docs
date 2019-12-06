@@ -10,29 +10,26 @@ The [repository](https://github.com/listingslab-software/docs) is of course Open
 
 > NEW! [Raspberry Pi](docs/tech/pi)
 
-#### Examples
+### Examples
 
 - [ChuckenGotchi](docs/examples/chuckengotchi)
 - [Pi Node Server](docs/tech/pi/pi-node-server)
 
-#### Work
+### Work
 
-- JavaScript
-
-    - [JavaScript](docs/tech/javascript)
+- [JavaScript](docs/tech/javascript)
     - [React](docs/tech/javascript/react)
     - [Node](docs/tech/javascript/node)
     - [Vanilla JS](docs/tech/javascript/vanilla)
-    - [Storybook](docs/tech/javascript/storybook)
+    - [Storybook JS](docs/tech/javascript/storybook)
 
-- Open Source
-
+- [Open Source](docs/tech/open-source)
     - [Iconduit](docs/iconduit)
     - [Docker](docs/tech/docker)
     - [Git](docs/tech/git/)
-    - [websocket.org/](docs/socket-viewer)
+    - [websocket.org](docs/socket-viewer)
 
-#### More
+### More
 
 - [Hire listingslab](docs/business/hire-listingslab)
 - [Glassdoor](docs/business/glassdoor)

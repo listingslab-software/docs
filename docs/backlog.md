@@ -1,12 +1,25 @@
 ## Backlog
-## Backlog
 
-Backlog is the posh name for a To Do list. All new ideas or problems first find their way into the backlog
+Backlog is the posh name for a To Do list. 
+All new ideas or problems first find their way here
+
+- Storybook
+    - New story `SiteSelect.jsx`
+    - New story `WordPress.jsx`
+    - Docs
 
 - [Pi](docs/tech/pi)
     - [Pi Node Server](docs/tech/pi/pi-node-server)
+    - Docs
 
-- GitHub
+- Dark Veb
+    - Register & host goooop.hk
+    - Do some onion magic
+    - Order process
+    - PWA/WordPress/WooCommerce
+    - Docs
+
+- [Git](docs/tech/git)
     - users
         - [listingslab](https://github.com/listingslab)
         - [deutscher-chris](https://github.com/deutscher-chris)
@@ -24,13 +37,7 @@ Backlog is the posh name for a To Do list. All new ideas or problems first find 
     - Get messages by fingerprint
     - Docs
 
-- Storybook
-    - New story `SiteSelect.jsx`
-    - New story `WordPress.jsx`
 
-- Dark Veb
-    - Register & host goooop.hk
-    - Do some onion magic
-    - Order process
-    - PWA/WordPress/WooCommerce
+
+
 
