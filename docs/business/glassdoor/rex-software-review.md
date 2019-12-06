@@ -1,4 +1,6 @@
-## Rex Software Glassdoor Review
+## Rex Software Glassdoor Review 
+
+![Featured Image](images/glassdoor.png "Featured Image")
 
 This is listinglab's review of working for Rex.
 
