@@ -16,23 +16,26 @@ The [repository](https://github.com/listingslab-software/docs) is of course Open
 - [Pi Node Server](docs/tech/pi/pi-node-server)
 
 #### Work
-- [JavaScript](docs/tech/javascript/javascript)
-- [React](docs/tech/javascript/react)
-- [Node](docs/tech/javascript/node)
-- [Vanilla JS](docs/tech/javascript/vanilla)
-- [Storybook](docs/tech/storybook/storybook)
-- [NPM](docs/tech/open-source/npm-scopes)
-- [Socket Viewer](docs/socket-viewer)
-- [Docker](docs/tech/docker)
-- [Git](docs/tech/git/git)
-- [Glassdoor](docs/business/glassdoor/glassdoor)
+
+- JavaScript
+
+    - [JavaScript](docs/tech/javascript)
+    - [React](docs/tech/javascript/react)
+    - [Node](docs/tech/javascript/node)
+    - [Vanilla JS](docs/tech/javascript/vanilla)
+    - [Storybook](docs/tech/javascript/storybook)
+
+- Open Source
+
+    - [Iconduit](docs/iconduit)
+    - [Docker](docs/tech/docker)
+    - [Git](docs/tech/git/)
+    - [websocket.org/](docs/socket-viewer)
 
 #### More
 
-- [About listingslab](docs/business/about-listingslab)
-- [Iconduit](docs/examples/iconduit)
+- [Hire listingslab](docs/business/hire-listingslab)
+- [Glassdoor](docs/business/glassdoor)
 - [Recipes](docs/food)
-- [Why dont you?](docs/other/why-dont-you)
     
-
 ##### [Backlog](docs/backlog)

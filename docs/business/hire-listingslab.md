@@ -1,4 +1,4 @@
-## About Listingslab
+## Hire Listingslab
 
 ```bash
    ___    __  _               __     __
@@ -11,7 +11,6 @@
 
 #### Globally Relevant JavaScript Engineering
 
--[why don't you?](./why-dont-you)
 
 ### Features
 
