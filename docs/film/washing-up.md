@@ -2,6 +2,8 @@
 
 [vimeo.com/377894546](https://vimeo.com/377894546)
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/377894546?autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 The GoPro has made timelapsing part of it's core funtionality. You set the camera on a tripod, hit record and it will sort everything out for you into a tidy little timelapsed clip.
 
 This is good because if you want to compress an hour of footage into 10 seconds, that initial hour of footage is going to have a massive filesize and make forblems for numpty editors.
