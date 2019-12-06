@@ -2,6 +2,8 @@
 
 - [Pi Node Server](pi-node-server)
 
+![Featured Image](images/apple-touch-icon-masked-180x180.png "Featured Image")
+
 ### What is a Pi?
 
 The Raspberry Pi is a very low cost, credit-card sized computer.
