@@ -6,7 +6,9 @@ layout: default
 
 Keeping a set of publically accessible, spell & sanity checked docs is hard, so please bear with us. We're using [github.io pages](https://pages.github.com) with the custom domain [docs.listingslab.com](https://docs.listingslab.com) and a custom theme. So when we say _Get Started_, we mean us, not you. The [repository](https://github.com/listingslab-software/docs) is of course [Open Source](docs/tech/open-source) on GitHub, and PRs are welcome.
 
-> NEW! [Raspberry Pi](docs/tech/pi)
+![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image")
+
+> ## NEW! [Pi Node Server](docs/tech/pi) 
 
 ### Work
 We have been known to take on new clients from time to time. If you have a specific requirement and what you see here leads you to believe that listingslab could deliver it, please [email us](mailto:listingslab@gmail.com)
