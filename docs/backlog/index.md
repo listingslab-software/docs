@@ -3,23 +3,26 @@
 Backlog is the posh name for a To Do list. 
 All new ideas or problems first find their way here
 
+- Graphics Docs
+    - SVG/JSX
+    - Greensock
+
 - Storybook
     - New story `SiteSelect.jsx`
     - New story `WordPress.jsx`
-    - Docs
 
-- [Pi](docs/tech/pi)
-    - [Pi Node Server](docs/tech/pi/pi-node-server)
-    - Docs
+- [Pi Node Server](../tech/pi/pi-node-server)
+
+- Open Source
+    - [NPM Scopes](npm-scopes) 
 
 - Dark Veb
     - Register & host goooop.hk
     - Do some onion magic
     - Order process
     - PWA/WordPress/WooCommerce
-    - Docs
 
-- [Git](docs/tech/git)
+- [Git](../tech/git)
     - users
         - [listingslab](https://github.com/listingslab)
         - [deutscher-chris](https://github.com/deutscher-chris)
