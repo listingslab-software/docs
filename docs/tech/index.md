@@ -8,17 +8,14 @@ We have been known to take on new clients from time to time. If you have a speci
 - [JavaScript](javascript)
 
   - [Progressive Web Apps](pwa)
-
     - [ChuckenGotchi](../chuckengotchi)
     - [Pi Node Server](pi/pi-node-server)
-
   - [React](javascript/react)
+    - [websocket.org](../socket-viewer)
   - [Node](javascript/node)
   - [Vanilla JS](javascript/vanilla)
   - [Storybook JS](javascript/storybook)
 
 - [Open Source](open-source)
-  - [Iconduit](../iconduit)
-  - [Docker](tdocker)
-  - [Git](git/)
-  - [websocket.org](../socket-viewer)
+  - [Docker](docker)
+  - [Git](git)

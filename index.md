@@ -22,7 +22,6 @@ We have been known to take on new clients from time to time. If you have a speci
   - [Vanilla JS](docs/tech/javascript/vanilla)
   - [Storybook JS](docs/tech/javascript/storybook)
 - [Open Source](docs/tech/open-source)
-  - [Iconduit](docs/iconduit)
   - [Docker](docs/tech/docker)
   - [Git](docs/tech/git/)
   - [websocket.org](docs/socket-viewer)
