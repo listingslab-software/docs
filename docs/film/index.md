@@ -5,7 +5,7 @@ Film, Video, Movies, Film Clips, call 'em what you like, we've been making them 
 ### Chamonix
 
 - [The beginning of GoPro, 2011](35713009_gopro)
-- [Chamonix Freeride Day 2008](981211_chamonix-freeride-day)
+- [Chamonix Freeride Day 2008 :loudspeaker:](981211_chamonix-freeride-day)
 - [Speed Riding the Grande Montets, 2008](1059585_grande-montets)
 
 ### Diving
