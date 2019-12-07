@@ -1,4 +1,6 @@
-## Contributing to The Minimal Theme
+## Contributing
+
+[Git](./) | [Tech](../) | [Home](../..)
 
 Hi there! We're thrilled that you'd like to contribute to The Minimal Theme. Your help is essential for keeping it great.
 

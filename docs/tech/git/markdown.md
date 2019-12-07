@@ -96,6 +96,8 @@ end
 
 ### Large image
 
+[Git](./) | [Tech](../) | [Home](../..)
+
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ### Definition lists can be used with HTML syntax.
