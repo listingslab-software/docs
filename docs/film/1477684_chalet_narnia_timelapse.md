@@ -9,3 +9,7 @@ Mainly this is a little film about my evening BBQ which showcases the time lapse
 http://www.chalet-narnia.com
 
 That's what my mate Corin is going to be calling his chalet with it's rented out over the winter. I've been staying there this week, taking care of his dogs while he's away and I love the place. This film is vaguely aimed at being shown on his website as an advert.
+
+[vimeo.com/1477684](https://vimeo.com/1477684)
+
+[Film Menu](./)[Film Menu](./) | [Home](../..)

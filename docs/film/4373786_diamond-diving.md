@@ -8,4 +8,4 @@ An interview with Alex Diamond of [Diamond Diving](https://www.diamonddiving.fr)
 
 [vimeo.com/4373786](https://vimeo.com/4373786)
 
-[Film Menu](./)
+[Film Menu](./) | [Home](../..)
