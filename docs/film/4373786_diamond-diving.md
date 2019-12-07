@@ -1,4 +1,4 @@
-## Diving With Diamond Diving in Antibes, South of France
+## Diamond Diving, Antibes, South of France
 
 [Film Menu](./) | [Home](../..)
 

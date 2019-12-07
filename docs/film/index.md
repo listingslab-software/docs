@@ -12,7 +12,7 @@ Film, Video, Movies, Film Clips, call 'em what you like, we've been making them 
 
 ### Diving
 
-- [Diamond Diving, Antibes, South of France](4373786_diamond-diving)
+- [Diamond Diving, Antibes, South of France ![Video haz sound](images/loudspeaker.png "Has Sound")](4373786_diamond-diving)
 
 ### Experimental
 
