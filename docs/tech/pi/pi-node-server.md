@@ -1,5 +1,7 @@
 ## Raspberry Pi Node Server
 
+[Pi](./) | [Tech](../) | [Home](../../..)
+
 ### Listingslab Raspberry Pi Firmware
 
 Grab an SD card, clone this repo onto it and fire up your Pi
@@ -16,19 +18,23 @@ git clone https://github.com/listingslab-hardware/pi-firmware.git
 cd pi-firmware
 yarn && cd ./node && yarn && cd ../react && yarn && cd ../ && ls -la
 ```
+
 > Cool stuff you can do
 
 ##### Takes a photo and saves it to the server
+
 ```bash
 ~/Desktop/node/pi-firmware/bin/create_current_photo.sh
 ```
 
-#####  How to turn off the annoying red light
+##### How to turn off the annoying red light
+
 ```bash
 sudo sh -c 'echo 0 > /sys/class/leds/led1/brightness'
 ```
 
 ##### Where to save boot commands
+
 ```bash
 sudo nano /etc/rc.local
 ```
