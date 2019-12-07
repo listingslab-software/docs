@@ -1,5 +1,7 @@
 ## Rapberry Pi
 
+[Tech](../) | [Home](../../..)
+
 ![Featured Image](images/pi-logo.png "Featured Image")
 
 - [Pi Node Server](pi-node-server)

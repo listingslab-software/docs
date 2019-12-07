@@ -4,11 +4,11 @@ layout: default
 
 > ## NEW! ![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image") [Pi Node Server](docs/tech/pi)
 
-## Just getting started
+### Getting started?
 
 Keeping a set of publically accessible, spell & sanity checked docs is hard, so please bear with us. We're using [github.io pages](https://pages.github.com) with the custom domain [docs.listingslab.com](https://docs.listingslab.com) and a custom theme. So when we say _Getting Started_, we mean us, not you. This [repository](https://github.com/listingslab-software/docs) is of course [Open Source](docs/tech/open-source) on GitHub, and PRs are welcome.
 
-### Work
+#### Work
 
 We have been known to take on new clients from time to time. If you have a specific requirement and what you see here leads you to believe that listingslab could deliver it, please [email us](mailto:listingslab@gmail.com)
 
@@ -27,12 +27,16 @@ We have been known to take on new clients from time to time. If you have a speci
   - [Git](docs/tech/git/)
   - [websocket.org](docs/socket-viewer)
 
-### Life
+#### Life
 
 - [Film](docs/film)
 - [Recipes](docs/food)
 
-### Balance
+#### Balance
 
 - [Glassdoor](docs/business/glassdoor)
 - [Backlog](docs/backlog)
+
+##### Smallprint
+
+_Should Just Work &trade;_

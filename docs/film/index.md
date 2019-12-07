@@ -16,6 +16,6 @@ Films, Videos, Movies, Film Clips, call 'em what you like, we've been making 'em
 
 ### Experimental
 
-- [Learning to Time Lapse, 2007](1122694_learn_timelapse)
-- [Chalet Narnia Time lapse, 2007](1477684_chalet_narnia_timelapse)
-- [Washing up time lapse, 2019](377894546_washing-up)
+- [Learning Time-Lapse, 2007](1122694_learn_timelapse)
+- [Chalet Narnia Time-lapse, 2007 ![Video haz sound](images/loudspeaker.png "Has Sound")](1477684_chalet_narnia_timelapse)
+- [Modern Easy, perfect GoPro Time-lapse, 2019](377894546_washing-up)

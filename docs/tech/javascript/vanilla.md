@@ -1,5 +1,7 @@
 ## Vanilla JS
 
+[JavaScript](./) | [Tech](../) | [Home](../../..)
+
 Old skool JavaScript
 
 ```javascript
