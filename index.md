@@ -18,7 +18,7 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
         <li><a href="docs/tech/pwa">Progressive Web Apps</a></li>
         <li><a href="docs/tech/javascript/react">React</a>, <a href="docs/tech/javascript/node">Node</a></li>
         <li><a href="docs/tech/javascript/storybook">Storybook</a></li>
-        <li><a href="docs/tech/git">![Git](images/git.png "Git") Git</a></li>
+        <li><a href="docs/tech/git">Git</a></li>
     </ul>
 </div>
 
