@@ -1,6 +1,6 @@
 ## JavaScript
 
-[Work](../) | [Home](../../)
+[Work](../) | [Home](../..)
 
 - [React](react)
   - [Create React App](create-react-app)
