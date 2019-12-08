@@ -1,6 +1,6 @@
 ## Tamagotchi
 
-[Home](../) | [Chucken Gotchi](./)
+[Home](../..) | [Chucken Gotchi](./)
 
 ## Gameplay
 

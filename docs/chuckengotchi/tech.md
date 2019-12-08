@@ -1,6 +1,6 @@
 ## Tech Stack
 
-[Home](../) | [Chucken Gotchi](./)
+[Home](../..) | [Chucken Gotchi](./)
 
 - React
 - Redux Persistant Store

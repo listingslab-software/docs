@@ -1,6 +1,6 @@
 ## Chucken Gotchi
 
-[Home](../)
+[Home](../..)
 
 - [Game Play](gameplay)
   - [Breeds](breeds)
