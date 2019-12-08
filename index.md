@@ -9,43 +9,40 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
 > ## NEW! ![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image") [Pi Node Server](docs/tech/pi)
 
 <div class="third-wide">
-<h2>< href="work">Work</a></h2>
-#### [Work](work)
-- [Hire listingslab](docs/business/hire-listingslab)
-- [JavaScript](docs/tech/javascript)
-- [Progressive Web Apps](docs/tech/pwa)
-    - [ChuckenGotchi](docs/chuckengotchi)
-    - [Pi Node Server](docs/tech/pi/pi-node-server)
-- [React](docs/tech/javascript/react)
-- [Node](docs/tech/javascript/node)
-- [Vanilla JS](docs/tech/javascript/vanilla)
-- [Storybook JS](docs/tech/javascript/storybook)
-- [Open Source](docs/tech/open-source)
-- [Docker](docs/tech/docker)
-- [Git](docs/tech/git/)
-- [websocket.org](docs/socket-viewer)
+    <h2><a href="docs/work">Work</a></h2>
+    <ul>
+        <li><a href="docs/business/hire-listingslab">Hire listingslab</a></li>
+        <li><a href="docs/tech/open-source">Open Source</a></li>
+        <li><a href="docs/tech">Technology</a></li>
+        <li><a href="docs/tech/javascript">JavaScript</a></li>
+        <li><a href="docs/tech/pwa">Progressive Web Apps</a></li>
+        <li><a href="docs/chuckengotchi">ChuckenGotchi</a></li>
+        <li><a href="docs/tech/pi">Raspberry Pi</a></li>
+        <li><a href="docs/tech/javascript/react">React</a></li>
+        <li><a href="docs/tech/javascript/node">Node</a></li>
+        <li><a href="docs/tech/javascript/vanilla">Vanilla JS</a></li>
+        <li><a href="docs/tech/javascript/storybook">Storybook</a></li>
+    </ul>
 </div>
 
 <div class="third-wide">
-<h2>< href="life">Life</a></h2>
-#### [Life](life)
+<h2><a href="docs/life">Life</a></h2>
 - [Film](docs/film)
 - [Recipes](docs/food)
 </div>
 
 <div class="third-wide">
-<h2>< href="balance">Balance</a></h2>
-#### [Balance](balance)
+<h2><a href="docs/balance">Balance</a></h2>
 - [Glassdoor](docs/business/glassdoor)
 - [Backlog](docs/backlog)
 </div>
 
 <div style="clear: both;"></div>
 
-###### Read the emall print
+##### Small print
 
 - [Contributing](docs/tech/git/contributing)
 - [Contributor Covenant Code of Conduct](docs/tech/git/code-of-conduct)
 
-_Should Just Work &trade;_
-_BASICALLY, YOU INT SIN US, ROIGHT? &trade;_
+_Should Just Work &trade;_  
+_BASICALLY, YOU INT SIN US, ROIGHT? &tcopy;_
