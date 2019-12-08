@@ -2,11 +2,11 @@
 layout: default
 ---
 
-> ## NEW! ![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image") [Pi Node Server](docs/tech/pi)
-
-### Getting started?
+## Getting started?
 
 Keeping a set of publically accessible, spell & sanity checked docs is hard, so please bear with us. We're using [github.io pages](https://pages.github.com) with the custom domain [docs.listingslab.com](https://docs.listingslab.com) and a custom theme. So when we say _Getting Started_, we mean us, not you. This [repository](https://github.com/listingslab-software/docs) is of course [Open Source](docs/tech/open-source) on GitHub, and PRs are welcome.
+
+> ## NEW! ![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image") [Pi Node Server](docs/tech/pi)
 
 #### [Work](work)
 
