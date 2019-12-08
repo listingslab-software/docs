@@ -1,4 +1,4 @@
-## Contributor Covenant Code of Conduct
+## ![Git](images/git.png "Git") Contributor Covenant Code of Conduct
 
 [Git](./) | [Tech](../) | [Home](../..)
 

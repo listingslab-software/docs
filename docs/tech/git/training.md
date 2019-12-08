@@ -1,4 +1,4 @@
-## Git Guidelines
+## ![Git](images/git.png "Git") Git Training
 
 [Git](./) | [Tech](../) | [Home](../..)
 

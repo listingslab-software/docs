@@ -1,4 +1,4 @@
-# The Minimal theme
+# ![Git](images/git.png "Git") The Minimal theme
 
 [Git](./) | [Tech](../) | [Home](../..)
 

@@ -1,4 +1,4 @@
-## Markdown Examples
+## ![Git](images/git.png "Git") Markdown Examples
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -97,6 +97,8 @@ end
 ### Large image
 
 [Git](./) | [Tech](../) | [Home](../..)
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 

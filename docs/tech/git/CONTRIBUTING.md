@@ -1,4 +1,4 @@
-## Contributing
+## ![Git](images/git.png "Git") Contributing
 
 [Git](./) | [Tech](../) | [Home](../..)
 

@@ -1,4 +1,4 @@
-## Jekyll How To
+## ![Git](images/git.png "Git") Jekyll How To
 
 [Git](./) | [Tech](../) | [Home](../..)
 
