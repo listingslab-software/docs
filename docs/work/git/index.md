@@ -1,6 +1,6 @@
 ## ![Git](images/git.png "Git") Git
 
-[Work](../) | [Home](../../)
+[Work](../) | [Home](../../..)
 
 - [Markdown Examples](markdown)
 - [Installing & Use Jekyll](jekyll-how-to)

@@ -1,6 +1,6 @@
 ## ![Git](images/git.png "Git") Contributing
 
-[Git](./) | [Work](../) | [Home](../..)
+[Git](./) | [Work](../) | [Home](../../..)
 
 Hi there! We're thrilled that you'd like to contribute to The Minimal Theme. Your help is essential for keeping it great.
 

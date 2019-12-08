@@ -1,6 +1,6 @@
 ## ![Git](images/git.png "Git") Contributor Covenant Code of Conduct
 
-[Git](./) | [Work](../) | [Home](../..)
+[Git](./) | [Work](../) | [Home](../../..)
 
 ## Our Pledge
 

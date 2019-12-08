@@ -1,6 +1,6 @@
 ## ![Git](images/git.png "Git") Markdown Examples
 
-[Git](./) | [Work](../) | [Home](../..)
+[Git](./) | [Work](../) | [Home](../../..)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

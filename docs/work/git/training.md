@@ -1,6 +1,6 @@
 ## ![Git](images/git.png "Git") Git Training
 
-[Git](./) | [Work](../) | [Home](../..)
+[Git](./) | [Work](../) | [Home](../../..)
 
 > **Branch name guidelines** Keep 'em short, keep 'em relevant
 

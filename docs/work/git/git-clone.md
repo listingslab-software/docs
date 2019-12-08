@@ -1,6 +1,6 @@
 ## ![Git](images/git.png "Git") git clone
 
-[Git](./) | [Work](../) | [Home](../..)
+[Git](./) | [Work](../) | [Home](../../..)
 
 ```bash
 cd <your/working/dir>
