@@ -16,8 +16,7 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
         <li><a href="docs/tech">Technology</a></li>
         <li><a href="docs/tech/javascript">JavaScript</a></li>
         <li><a href="docs/tech/pwa">Progressive Web Apps</a></li>
-        <li><a href="docs/chuckengotchi">ChuckenGotchi</a></li>
-        <li><a href="docs/tech/pi">Raspberry Pi</a></li>
+        
         <li><a href="docs/tech/javascript/react">React</a></li>
         <li><a href="docs/tech/javascript/node">Node</a></li>
         <li><a href="docs/tech/javascript/vanilla">Vanilla JS</a></li>
@@ -30,12 +29,14 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
     <ul>
         <li><a href="docs/film">Film</a></li>
         <li><a href="docs/food">Food</a></li>
+        <li><a href="docs/chuckengotchi">ChuckenGotchi</a></li>
     </ul>
 </div>
 
 <div class="third-wide">
     <h4><a href="docs/balance">Balance</a></h4>
     <ul>
+        <li><a href="docs/tech/pi">Raspberry Pi</a></li>
         <li><a href="docs/business/glassdoor">Glassdoor</a></li>
         <li><a href="docs/backlog">Backlog</a></li>
     </ul>
