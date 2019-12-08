@@ -2,7 +2,7 @@
 
 [Pi](./) | [Tech](../) | [Home](../../..)
 
-![Featured Image](images/pi-logo.png "Featured Image")
+![Rapberry Pi](images/pi-logo.png "Rapberry Pi")
 
 ### Listingslab Raspberry Pi Firmware
 
