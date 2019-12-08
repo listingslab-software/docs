@@ -9,6 +9,7 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
 > ## NEW! ![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image") [Pi Node Server](docs/tech/pi)
 
 <div class="third-wide">
+<h2>< href="work">Work</a><h2>
 #### [Work](work)
 - [Hire listingslab](docs/business/hire-listingslab)
 - [JavaScript](docs/tech/javascript)
@@ -26,12 +27,14 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
 </div>
 
 <div class="third-wide">
+<h2>< href="life">Life</a><h2>
 #### [Life](life)
 - [Film](docs/film)
 - [Recipes](docs/food)
 </div>
 
 <div class="third-wide">
+<h2>< href="balance">Balance</a><h2>
 #### [Balance](balance)
 - [Glassdoor](docs/business/glassdoor)
 - [Backlog](docs/backlog)
@@ -41,9 +44,8 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
 
 ###### Read the emall print
 
-_Should Just Work &trade;_
-
 - [Contributing](docs/tech/git/contributing)
 - [Contributor Covenant Code of Conduct](docs/tech/git/code-of-conduct)
 
+_Should Just Work &trade;_
 _BASICALLY, YOU INT SIN US, ROIGHT? &trade;_
