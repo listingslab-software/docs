@@ -2,6 +2,8 @@
 
 [Tech](../) | [Home](../../..)
 
+![Featured Image](images/pi-logo.png "Featured Image")
+
 The Raspberry Pi is a very low cost, credit-card sized computer.
 It is a capable little device that enables people of all ages to explore
 computing, and to learn how to program in languages like Python.
