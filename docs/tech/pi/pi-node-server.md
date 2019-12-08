@@ -1,8 +1,6 @@
-## Raspberry Pi Node Server
+## ![Rapberry Pi](images/pi-logo.png "Rapberry Pi") Raspberry Pi Node Server
 
-[Pi](./) | [Tech](../) | [Home](../../..)
-
-![Rapberry Pi](images/pi-logo.png "Rapberry Pi")
+[Home](../../..) | [Tech](../) | [Pi](./)
 
 ### Listingslab Raspberry Pi Firmware
 
