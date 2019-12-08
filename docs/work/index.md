@@ -1,15 +1,16 @@
 ## Work
 
-[Home](../)
+[Home](../..)
 
-Yeh, we do have to work sometimes. Ho hum.
-Often we do Open Source work and that is far more fun.
+Yeh, we do have to [work sometimes](hire-listingslab). Ho hum.
+Often we work [Open Source](open-source) and that is far more fun.
 
-### Open Source
-
+- [JavaScript](javascript)
+- [Git](git)
+- [Socket Viewer](socket-viewer)
 - [Iconduit](iconduit)
 
-### Repos
+### Github Orgs
 
 - [listingslab-software/listingslab](https://github.com/listingslab-software/listingslab)
 - [listingslab-hardware/pi-firmware](https://github.com/listingslab-hardware/pi-firmware)
