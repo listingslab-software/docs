@@ -6,7 +6,7 @@ layout: default
 
 Keeping a set of publically accessible, spell & sanity checked docs is hard, so please bear with us. We're using [github.io pages](https://pages.github.com) with the custom domain [docs.listingslab.com](https://docs.listingslab.com) and a custom theme. So when we say _Getting Started_, we mean us, not you. This [repository](https://github.com/listingslab-software/docs) is of course [Open Source](docs/tech/open-source) on GitHub, and PRs are welcome.
 
-> ### NEW! ![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image") [Pi Node Server](docs/tech/pi)
+> ### NEW! ![Raspberry Pi](docs/tech/pi/images/pi-logo.png "Raspberry Pi") [Raspberry Pi](docs/tech/pi)
 
 <div class="third-wide">
     <h4><a href="docs/work">Work</a></h4>
@@ -14,12 +14,9 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
         <li><a href="docs/business/hire-listingslab">Hire listingslab</a></li>
         <li><a href="docs/tech/open-source">Open Source</a></li>
         <li><a href="docs/tech">Technology</a></li>
-        <li><a href="docs/tech/javascript">JavaScript</a></li>
+        <li><a href="docs/tech/javascript">JavaScript</a>, <a href="docs/tech/javascript/vanilla">Vanilla JS</a></li>
         <li><a href="docs/tech/pwa">Progressive Web Apps</a></li>
-        
-        <li><a href="docs/tech/javascript/react">React</a></li>
-        <li><a href="docs/tech/javascript/node">Node</a></li>
-        <li><a href="docs/tech/javascript/vanilla">Vanilla JS</a></li>
+        <li><a href="docs/tech/javascript/react">React</a>, <a href="docs/tech/javascript/node">Node</a></li>
         <li><a href="docs/tech/javascript/storybook">Storybook</a></li>
     </ul>
 </div>
