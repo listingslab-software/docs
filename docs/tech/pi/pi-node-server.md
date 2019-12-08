@@ -9,10 +9,6 @@
 Grab an SD card, clone this repo onto it and fire up your Pi
 to see some seriously wicked shee-it. [GitHub](https://github.com/listingslab-hardware/pi-firmware)
 
-#### Current photo
-
-![current photo](http://pi.listingslab.io/jpg/current-photo.jpg "current photo")
-
 #### Install on Pi 4 with a clean Rasbian instance
 
 Create a folder called `node` on your Pi's `~/Desktop` and clone this directory into it,
@@ -32,6 +28,10 @@ yarn && cd ./node && yarn && cd ../react && yarn && cd ../ && ls -la
 ```bash
 ~/Desktop/node/pi-firmware/bin/create_current_photo.sh
 ```
+
+**Current photo**
+
+![current photo](http://pi.listingslab.io/jpg/current-photo.jpg "current photo")
 
 ##### How to turn off the annoying red light
 
