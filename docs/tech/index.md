@@ -6,9 +6,10 @@ We have been known to take on new clients from time to time. If you have a speci
 
 > ## NEW! ![Raspberry Pi Node Server](pi/images/pi-logo.png "Raspberry Pi Node Server") [Raspberry Pi Node Server](pi)
 
+![Current Photo](http://pi.listingslab.io/jpg/current-photo.jpg "Current Photo")
+
 - [Hire listingslab](../business/hire-listingslab)
 - [JavaScript](javascript)
-
   - [Progressive Web Apps](pwa)
     - [ChuckenGotchi](../chuckengotchi)
     - [Pi Node Server](pi/pi-node-server)
@@ -17,7 +18,6 @@ We have been known to take on new clients from time to time. If you have a speci
   - [Node](javascript/node)
   - [Vanilla JS](javascript/vanilla)
   - [Storybook JS](javascript/storybook)
-
 - [Open Source](open-source)
   - [Docker](docker)
   - [Git](git)
