@@ -9,6 +9,10 @@
 Grab an SD card, clone this repo onto it and fire up your Pi
 to see some seriously wicked shee-it. [GitHub](https://github.com/listingslab-hardware/pi-firmware)
 
+#### Current photo
+
+![current photo](http://pi.listingslab.io/jpg/current-photo.jpg "current photo")
+
 #### Install on Pi 4 with a clean Rasbian instance
 
 Create a folder called `node` on your Pi's `~/Desktop` and clone this directory into it,
