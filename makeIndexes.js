@@ -1,13 +1,13 @@
-const fs = require("fs");
-const path = require("path");
-const firstline = require("firstline");
-const baseURL = "https://docs.listingslab.com/docs/";
-
 /* 
     Running this under Node will automagically create 3 files containing 
     lists of the markdown in ./docs & overwriting existing files
     ./index.md, ./index.html & ./index.json
 */
+
+const fs = require("fs");
+// const path = require("path");
+const firstline = require("firstline");
+const baseURL = "https://docs.listingslab.com/docs/";
 
 async function runProgramme() {
   const jsonList = {
@@ -31,7 +31,11 @@ async function runProgramme() {
     } else {
       title = resourceType;
     }
-    if (resourceType !== "DS_Store") {
+    if (
+      resourceType !== "DS_Store" &&
+      resourceType !== "svg" &&
+      resourceType !== "png"
+    ) {
       liList += `<li>
                     <a href="${baseURL}${url}" title="${title}" target="_blank">
                         ${title}
@@ -39,16 +43,14 @@ async function runProgramme() {
                 </li>`;
     }
   }
-
   let indexHTML = `<ul>${liList}</ul>`;
-  //   let indexMarkdown = `Markdown`;
-  //   let indexJSON = `JSON`;
+  let indexJSON = JSON.stringify(jsonList);
 
-  fs.writeFileSync("index.nav.html", indexHTML);
-  console.log("index.html completed. Zero defects\n");
+  fs.writeFileSync("nav.html", indexHTML);
+  console.log("nav.html created. Zero defects\n");
 
-  // fs.writeFileSync("index.md", indexMarkdown);
-  // fs.writeFileSync("index.json", indexJSON);
+  fs.writeFileSync("nav.json", indexJSON);
+  console.log("nav.json created. Zero defects\n");
 
   return jsonList;
 }
