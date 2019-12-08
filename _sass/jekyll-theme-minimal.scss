@@ -7,6 +7,17 @@ body {
   color: #333;
 }
 
+.side-menu {
+  //   border: 1px solid red;
+}
+
+.third-wide {
+  border: 1px solid green;
+  padding: 8px;
+  float: left;
+  width: 32%;
+}
+
 h1,
 h2,
 h3,
@@ -127,7 +138,6 @@ header {
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
 }
-
 
 strong {
   color: #222;

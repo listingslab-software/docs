@@ -8,6 +8,10 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
 
 > ## NEW! ![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image") [Pi Node Server](docs/tech/pi)
 
+<div class="third-wide">
+ients from time to time. If you have a specific requirement and what you see here lea
+</div>
+
 #### [Work](work)
 
 We have been known to take on new clients from time to time. If you have a specific requirement and what you see here leads you to believe that listingslab could deliver it, please [email us](mailto:listingslab@gmail.com)
