@@ -9,42 +9,41 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
 > ## NEW! ![Featured Image](docs/tech/pi/images/pi-logo.png "Featured Image") [Pi Node Server](docs/tech/pi)
 
 <div class="third-wide">
-    #### [Work](work)
-    - [Hire listingslab](docs/business/hire-listingslab)
-    - [JavaScript](docs/tech/javascript)
-    - [Progressive Web Apps](docs/tech/pwa)
-        - [ChuckenGotchi](docs/chuckengotchi)
-        - [Pi Node Server](docs/tech/pi/pi-node-server)
-    - [React](docs/tech/javascript/react)
-    - [Node](docs/tech/javascript/node)
-    - [Vanilla JS](docs/tech/javascript/vanilla)
-    - [Storybook JS](docs/tech/javascript/storybook)
-    - [Open Source](docs/tech/open-source)
-    - [Docker](docs/tech/docker)
-    - [Git](docs/tech/git/)
-    - [websocket.org](docs/socket-viewer)
+#### [Work](work)
+- [Hire listingslab](docs/business/hire-listingslab)
+- [JavaScript](docs/tech/javascript)
+- [Progressive Web Apps](docs/tech/pwa)
+    - [ChuckenGotchi](docs/chuckengotchi)
+    - [Pi Node Server](docs/tech/pi/pi-node-server)
+- [React](docs/tech/javascript/react)
+- [Node](docs/tech/javascript/node)
+- [Vanilla JS](docs/tech/javascript/vanilla)
+- [Storybook JS](docs/tech/javascript/storybook)
+- [Open Source](docs/tech/open-source)
+- [Docker](docs/tech/docker)
+- [Git](docs/tech/git/)
+- [websocket.org](docs/socket-viewer)
 </div>
 
 <div class="third-wide">
-    ients from time to time. If you have a specific requirement and what you see here lea
+#### [Life](life)
+- [Film](docs/film)
+- [Recipes](docs/food)
 </div>
 
 <div class="third-wide">
-    ients from time to time. If you have a specific requirement and what you see here lea
+#### [Balance](balance)
+- [Glassdoor](docs/business/glassdoor)
+- [Backlog](docs/backlog)
 </div>
 
 <div style="clear: both;"></div>
 
-#### [Life](life)
-
-- [Film](docs/film)
-- [Recipes](docs/food)
-
-#### [Balance](balance)
-
-- [Glassdoor](docs/business/glassdoor)
-- [Backlog](docs/backlog)
-
-###### Small print
+###### Read the emall print
 
 _Should Just Work &trade;_
+
+- [Contributing](docs/tech/git/contributing)
+- [Contributor Covenant Code of Conduct](docs/tech/git/code-of-conduct)
+
+_BASICALLY, YOU INT SIN US, ROIGHT? &trade;_
