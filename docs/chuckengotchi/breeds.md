@@ -1,5 +1,7 @@
 ## Breeds
 
+[Home](../) | [Chucken Gotchi](./)
+
 - Layers
 - Bobbily Heads
 - Seargents

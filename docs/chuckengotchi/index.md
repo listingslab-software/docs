@@ -1,5 +1,7 @@
 ## Chucken Gotchi
 
+[Home](../)
+
 - [Game Play](gameplay)
   - [Breeds](breeds)
   - [Lifecycle](lifecycle)

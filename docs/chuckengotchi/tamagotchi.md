@@ -1,5 +1,7 @@
 ## Tamagotchi
 
+[Home](../) | [Chucken Gotchi](./)
+
 ## Gameplay
 
 Upon activating the toy, an egg appears on the screen. After setting the clock on the device, the egg will wiggle for several minutes, and then hatch into a small pet. In later versions, inputting the player's name and birthday is also required when setting the clock, and at birth, the player can name the pet and learn of its family group and/or gender. The player can care for the pet as much or as little as they choose, and the outcome depends on the player's actions. The first Tamagotchis could only be paused by going to set the clock, effectively stopping the passage of time in the game, but in later models a pause function was included.

@@ -1,5 +1,7 @@
 ## Tech Stack
 
+[Home](../) | [Chucken Gotchi](./)
+
 - React
 - Redux Persistant Store
 - Animation
