@@ -38,10 +38,5 @@ Keeping a set of publically accessible, spell & sanity checked docs is hard, so 
 
 <div style="clear: both;"></div>
 
-##### Small print
-
-- [Contributing](docs/tech/git/contributing)
-- [Contributor Covenant Code of Conduct](docs/tech/git/code-of-conduct)
-
 _Should Just Work &trade;_  
 _BASICALLY, YOU INT SIN US, ROIGHT? &copy;_
