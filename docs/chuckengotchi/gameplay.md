@@ -1,4 +1,6 @@
-## Playing the game
+## Playing ChuckenGotchi
+
+## Playing Tamagotchi
 
 On starting the game, the first egg is laid. it is the focus of the screen. It wiggles for a second and then hatches into the first stage of it's lifecycle, the chick.
 
