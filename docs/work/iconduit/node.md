@@ -1,6 +1,6 @@
 # Node
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 ## Vot is Node JS?
 

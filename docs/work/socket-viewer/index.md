@@ -1,6 +1,6 @@
 ## Socket Viewer
 
-[Work](../) | [Home](../../)
+[Work](../) | [Home](../../..)
 
 ![Featured Image](images/websockets.png "Featured Image")
 

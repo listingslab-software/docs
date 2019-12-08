@@ -1,6 +1,6 @@
 ## Vanilla JS
 
-[JavaScript](./) | [Work](../) | [Home](../..)
+[JavaScript](./) | [Work](../) | [Home](../../..)
 
 Old skool JavaScript
 

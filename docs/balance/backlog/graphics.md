@@ -1,7 +1,5 @@
 ## Graphics
 
-[Backlog](./) | [Balance](../) | [Home](../..)
-
 PhotoShop, SVG, Sketch, EPS, vector graphics
 
 https://all-free-download.com/free-vector/free-vector-playing-cards.html

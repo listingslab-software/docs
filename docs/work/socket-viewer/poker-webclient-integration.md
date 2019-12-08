@@ -1,6 +1,6 @@
 ## poker/webclient integration
 
-[Socket Viewer](./) | [Work](../) | [Home](../../)
+[Socket Viewer](./) | [Work](../) | [Home](../../..)
 
 ![Featured Image](images/websockets.png "Featured Image")
 

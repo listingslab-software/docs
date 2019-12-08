@@ -1,6 +1,6 @@
 ## Iconduit
 
-[Work](../) | [Home](../../)
+[Work](../) | [Home](../../..)
 
 Find out what Iconduit does and how it can [benefit](./more/Benefits.md) you, the developer.
 

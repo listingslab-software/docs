@@ -1,6 +1,6 @@
 # GNU Image Manipulation Program (GIMP)
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 The Free & Open Source Image Editor
 

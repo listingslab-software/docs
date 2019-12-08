@@ -1,6 +1,6 @@
 ## Salade nicoise
 
-[Food](./) | [Life](../) | [Home](../..)
+[Food](./) | [Life](../) | [Home](../../..)
 
 (niçoise)
 

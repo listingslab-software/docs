@@ -1,6 +1,6 @@
 ## Iconduit
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 Iconduit is a clever JavaScript utility developers can use to easily manage complex PWA web asset manifests in one or multiple projects.
 

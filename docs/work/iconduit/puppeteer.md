@@ -1,6 +1,6 @@
 # Puppeteer
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 [pptr.dev](https://pptr.dev/)
 

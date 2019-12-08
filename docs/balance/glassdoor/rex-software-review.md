@@ -1,6 +1,6 @@
 ## Rex Software Glassdoor Review
 
-[Glassdoor](./) | [Balance](../) | [Home](../..)
+[Glassdoor](./) | [Balance](../) | [Home](../../..)
 
 ![Featured Image](images/glassdoor.png "Featured Image")
 

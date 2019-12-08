@@ -1,6 +1,6 @@
 ## Chucken Life Stages
 
-[ChuckenGotchi](./) | [Life](../) | [Home](../..)
+[ChuckenGotchi](./) | [Life](../) | [Home](../../..)
 
 - Egg
 - Chick

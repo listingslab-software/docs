@@ -1,6 +1,6 @@
 ## Banana Bread
 
-[Food](./) | [Life](../) | [Home](../..)
+[Food](./) | [Life](../) | [Home](../../..)
 
 ### Ingredients
 

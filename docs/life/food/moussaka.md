@@ -1,6 +1,6 @@
 ## Moussaka
 
-[Food](./) | [Life](../) | [Home](../..)
+[Food](./) | [Life](../) | [Home](../../..)
 
 Portions: 10
 Time: All day.

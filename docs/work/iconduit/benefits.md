@@ -1,6 +1,6 @@
 # Benefits
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 List of reasons a developer might use Iconduit;
 

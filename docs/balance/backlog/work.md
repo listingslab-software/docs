@@ -1,7 +1,5 @@
 ## Work
 
-[Home](../..)
-
 We have been known to take on new clients from time to time. If you have a specific requirement and what you see here leads you to believe that listingslab could deliver it, please [email us](mailto:listingslab@gmail.com)
 
 > ## NEW! ![Raspberry Pi Node Server](pi/images/pi-logo.png "Raspberry Pi Node Server") [Raspberry Pi Node Server](pi)

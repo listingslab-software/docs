@@ -1,6 +1,6 @@
 ## Open Source
 
-[Tech](../) | [Home](../../..)
+[Tech](../) | [Home](../..)
 
 The term "open source" refers to something people can modify and share because its design is publicly accessible.
 

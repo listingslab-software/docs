@@ -1,6 +1,6 @@
 # PWA
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 [Suggested by Goole](https://developers.google.com/web/progressive-web-apps)
 

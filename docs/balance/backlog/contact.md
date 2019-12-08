@@ -1,7 +1,5 @@
 ## Contact
 
-[Backlog](./) | [Balance](../) | [Home](../..)
-
 Contact forms have been a stable feature of practically every website since the beginning and that is unlikely to change any time soon. It's generally the main goal of a public facing web-presence; to initiate contact with an audience.
 
 ### What does a contact form look like in 2019?

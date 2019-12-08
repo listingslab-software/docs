@@ -1,6 +1,6 @@
 ## Iconduit in the Real World
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 We have an App. Let's call it [Pi Node Server](http://pi.listingslab.io/). It's a simple React SPA bootstrapped using Create React App.
 

@@ -1,5 +1,5 @@
 # Sketch
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 - Open icon.sketch to begin

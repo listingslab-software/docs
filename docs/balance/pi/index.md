@@ -1,6 +1,6 @@
 ## ![Rapberry Pi](images/pi-logo.png "Rapberry Pi") Rapberry Pi
 
-[Balance](../) | [Home](../..)
+[Balance](../) | [Home](../../..)
 
 - [Node Server](pi-node-server)
 - [Linux Cron time-based scheduler](cron)

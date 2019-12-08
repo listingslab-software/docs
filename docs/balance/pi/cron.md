@@ -1,6 +1,6 @@
 ## ![Rapberry Pi](images/pi-logo.png "Rapberry Pi") Linux Cron time-based scheduler
 
-[Pi](./) | [Balance](../) | [Home](../..)
+[Pi](./) | [Balance](../) | [Home](../../..)
 
 ```bash
 crontab -e

@@ -1,6 +1,6 @@
 # Get Started
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 ![Featured Image](images/apple-touch-icon-180x180.png "Featured Image")
 

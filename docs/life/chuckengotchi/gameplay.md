@@ -1,6 +1,6 @@
 ## Playing ChuckenGotchi
 
-[ChuckenGotchi](./) | [Life](../) | [Home](../..)
+[ChuckenGotchi](./) | [Life](../) | [Home](../../..)
 
 ## Playing Tamagotchi
 

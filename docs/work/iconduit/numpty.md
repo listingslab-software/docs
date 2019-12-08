@@ -1,6 +1,6 @@
 # Numpty
 
-[Iconduit](./) | [Work](../) | [Home](../../)
+[Iconduit](./) | [Work](../) | [Home](../../..)
 
 ## What is a numpty in this context?
 

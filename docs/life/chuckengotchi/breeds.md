@@ -1,6 +1,6 @@
 ## Breeds
 
-[ChuckenGotchi](./) | [Life](../) | [Home](../..)
+[ChuckenGotchi](./) | [Life](../) | [Home](../../..)
 
 - Layers
 - Bobbily Heads

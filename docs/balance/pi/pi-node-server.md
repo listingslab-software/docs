@@ -1,6 +1,6 @@
 ## ![Rapberry Pi](images/pi-logo.png "Rapberry Pi") Raspberry Pi Node Server
 
-[Pi](./) | [Balance](../) | [Home](../..)
+[Pi](./) | [Balance](../) | [Home](../../..)
 
 ### Listingslab Raspberry Pi Firmware
 

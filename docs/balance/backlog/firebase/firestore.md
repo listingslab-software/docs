@@ -1,7 +1,5 @@
 ## Firestore
 
-[Firebase](./) | [Home](../..)
-
 ## Cloud Function
 
 ```javascript
