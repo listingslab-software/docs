@@ -43,7 +43,7 @@ async function runProgramme() {
                 </li>`;
     }
   }
-  let indexHTML = `<ul>${liList}</ul>`;
+  let indexHTML = `${liList}`;
   let indexJSON = JSON.stringify(jsonList);
 
   fs.writeFileSync("nav.html", indexHTML);
