@@ -7,10 +7,19 @@ body {
   color: #333;
 }
 
+.small-text{
+  font-size: 12px;
+}
+
 .third-wide {
   margin: 8px;
   float: left;
   width: 30%;
+  min-width: 350px;
+}
+.title {
+  margin-top: 16px;
+  font-size: 16px;
 }
 
 .side-menu {
@@ -24,6 +33,7 @@ h4,
 h5,
 h6 {
   color: #222;
+  font-weight: normal;
   margin: 0 0 20px;
 }
 

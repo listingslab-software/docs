@@ -6,15 +6,12 @@ layout: default
 
 Keeping a set of publicly accessible, spell & sanity checked docs is hard, so please bear with us. We're using [github.io pages](https://pages.github.com) with the custom domain [docs.listingslab.com](https://docs.listingslab.com) and a custom theme. So when we say _Getting Started_, we mean us, not you. This [repository](https://github.com/listingslab-software/docs) is of course [Open Source](docs/tech/open-source) on GitHub, and PRs are welcome.
 
-> ### NEW! ![Raspberry Pi](docs/balance/pi/images/pi-logo.png "Raspberry Pi") [Raspberry Pi](docs/balance/pi)
-
 <div class="third-wide">
     <h4><a href="docs/work">Work</a></h4>
     <ul>
         <li><a href="docs/work/javascript">JavaScript</a></li>
         <li><a href="docs/work/git">Git</a></li>
         <li><a href="docs/work/open-source">Open Source</a></li>
-        <li><a href="docs/work/hire-listingslab">Hire listingslab</a></li>
     </ul>
 </div>
 
@@ -37,6 +34,3 @@ Keeping a set of publicly accessible, spell & sanity checked docs is hard, so pl
 </div>
 
 <div style="clear: both;"></div>
-
-_Should Just Work &trade;_  
-_BASICALLY, YOU INT SIN US, ROIGHT? &copy;_
