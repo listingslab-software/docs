@@ -29,7 +29,7 @@ yarn && cd ./node && yarn && cd ../react && yarn && cd ../ && ls -la
 
 **Current photo**
 
-![current photo](https://pi.listingslab.io/jpg/current-photo.jpg "current photo")
+![current photo](http://pi.listingslab.io/jpg/current-photo.jpg "current photo")
 
 ##### How to turn off the annoying red light
 
