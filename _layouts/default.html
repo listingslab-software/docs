@@ -30,7 +30,7 @@
         <header>
             <a href="{{ "/" | absolute_url }}">
                 <img style="width: 75px; float: left; margin-right: 8px;""
-                        alt=" Listingslab Docs" src="/assets/img/fancy-spade.png" />
+                            alt=" Listingslab Docs" src="/assets/img/fancy-spade.png" />
             </a>
             <h1>
                 <a href="{{ "/" | absolute_url }}">
@@ -38,43 +38,24 @@
                 </a>
             </h1>
 
-            
+            <div style="clear: both;"></div>
             <div id="you-might-like" class="side-menu">
+
                 <h4>{{ site.description | default: site.github.project_tagline }}</h4>
                 <ul>
                     <li>
-                        <a href="/docs/work/" 
-                        target="_self" 
-                        title="Grab some popcorn">Work</a>
+                        <a href="/docs/work/" target="_self" title="Grab some popcorn">Work</a>
                     </li>
                     <li>
-                        <a href="/docs/life/" 
-                        target="_self" 
-                        title="The smart choice">Life</a>
+                        <a href="/docs/life/" target="_self" title="The smart choice">Life</a>
                     </li>
                     <li>
-                        <a href="/docs/balance/" 
-                        target="_self" 
-                        title="The smart choice">Balance</a>
+                        <a href="/docs/balance/" target="_self" title="The smart choice">Balance</a>
                     </li>
-
-
-
-                    <!-- <li>
-                        <a href="https://github.com/listingslab-software/docs" 
-                        target="_blank"
-                        rel="noreferrer"
-                        title="Check out the Open Source, err, source">
-                        GitHub</a>
-                    </li> -->
                 </ul>
-<p>We have been known to take on new clients from time to time. If you have a specific requirement and what you see here leads you to believe that listingslab could deliver it, please <a href="mailto:listingslab@gmail.com?subject="Listingslab Work" >email us</a></p>
-                
             </div>
 
-            <div id="react-menu">
-                two
-            </div>
+            <div id="react-menu"></div>
             <script>
                 var el = document.getElementById('react-menu');
                 el.innerHTML = '';
@@ -84,6 +65,15 @@
         <section>
             {{ content }}
         </section>
+    </div>
+    <div class="">
+        <p>We have been known to take on new clients from time to time. If you have a specific requirement and
+            what you see here leads you to believe that listingslab could deliver it, please <a
+                href="mailto:listingslab@gmail.com?subject=Work Enquiry" Listingslab Work">email us</a></p>
+
+        <p><a href="https://github.com/listingslab-software/docs" target="_blank" rel="noreferrer"
+                title="Check out the Open Source, err, source">
+                GitHub</a></p>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
