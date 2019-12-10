@@ -1,6 +1,6 @@
 ## Glassdoor
 
-[Balance](../) | [Home](../..)
+[Balance](../) | [Home](../../..)
 
 - [Listingslab's review of Rex Stoware](rex-software-review)
 - [Reviews of Rex Stoware](rex-software-reviews)

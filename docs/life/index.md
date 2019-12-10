@@ -1,6 +1,6 @@
 ## Life
 
-[Home](../)
+[Home](../..)
 
 We've got a life, though
 
