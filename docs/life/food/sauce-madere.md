@@ -15,7 +15,7 @@
 - 180 ml Madeira sherry
 - 2 tablespoons of butter
 
-![Elizabeth David](images/Elizabeth-David.jps "Elizabeth David")
+![Elizabeth David](images/Elizabeth-David.jpg "Elizabeth David")
 
 ### Method
 

@@ -2,7 +2,8 @@
 
 [Life](../) | [Home](../../..)
 
+- [Quiche Base](quiche-base)
 - [Sauce Madère](sauce-madere)
 - [Banana Bread](banana-bread)
-- [Salade niçoise](salade-nicoise)
+- [Salade Niçoise](salade-nicoise)
 - [Moussaka](moussaka)
