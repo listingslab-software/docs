@@ -1,8 +1,8 @@
-## ![Rapberry Pi](images/pi-logo.png "Rapberry Pi") Raspberry Pi Node Server
+## ![PiJS](images/pi-logo.png "PiJS) PiJS Node Server
 
 [Pi](./) | [Balance](../) | [Home](../../..)
 
-### Listingslab Raspberry Pi Firmware
+### Our custom PiJS Firmware
 
 Grab an SD card, clone this repo onto it and fire up your Pi
 to see some seriously wicked shee-it. [GitHub](https://github.com/listingslab-hardware/pi-firmware)
@@ -14,8 +14,8 @@ Create a folder called `node` on your Pi's `~/Desktop` and clone this directory 
 ```bash
 cd ~/Desktop
 mkdir node && cd node
-git clone https://github.com/listingslab-hardware/pi-firmware.git
-cd pi-firmware
+git clone https://github.com/listingslab-hardware/pijs.git
+cd pijs
 yarn && cd ./node && yarn && cd ../react && yarn && cd ../ && ls -la
 ```
 
@@ -26,10 +26,6 @@ yarn && cd ./node && yarn && cd ../react && yarn && cd ../ && ls -la
 ```bash
 ~/Desktop/node/pi-firmware/bin/create_current_photo.sh
 ```
-
-**Current photo**
-
-![current photo](https://pi.listingslab.io/jpg/current-photo.jpg "current photo")
 
 ##### How to turn off the annoying red light
 

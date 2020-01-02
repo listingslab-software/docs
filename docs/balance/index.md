@@ -5,5 +5,5 @@
 This too shall pass
 
 - [Books](books)
-- [Raspberry Pi](pi)
+- [PiJS](pi)
 
