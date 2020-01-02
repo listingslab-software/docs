@@ -8,3 +8,8 @@
 - [Code of Conduct](code-of-conduct)
 - [Contributing](contributing)
 - [Git Training](training)
+
+### Listingslab Github Organisations
+
+- [listingslab-software](https://github.com/listingslab-software)
+- [listingslab-hardware](https://github.com/listingslab-hardware)
