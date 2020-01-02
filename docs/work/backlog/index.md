@@ -1,6 +1,6 @@
 ## Backlog
 
-[Balance](../) | [Home](../..)
+[Work](../) | [Home](../../..)
 
 Backlog is the posh name for a To Do list.
 All new ideas or problems first find their way here
