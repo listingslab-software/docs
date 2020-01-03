@@ -1,6 +1,6 @@
 ## PiJS
 
-[Balance](../) | [Home](../../..)
+[Work](../) | [Home](../../..)
 
 ![Rapberry Pi](images/pi-logo.png "Rapberry Pi")
 

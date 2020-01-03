@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Listingslab Docs
+
 ## Choose your path, young Padwan
 
 > In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called **chickenheads**
@@ -9,6 +11,7 @@ layout: default
 <div class="third-wide">
     <h4><a href="docs/work">Work</a></h4>
     <ul>
+        <li><a href="docs/work/pijs">PiJS</a></li>
         <li><a href="docs/work/javascript">JavaScript</a></li>
         <li><a href="docs/work/git">Git</a></li>
         <li><a href="docs/work/open-source">Open Source</a></li>
@@ -28,7 +31,6 @@ layout: default
 <div class="third-wide">
     <h4><a href="docs/balance">Balance</a></h4>
     <ul>
-        <li><a href="docs/balance/pi">Raspberry Pi</a></li>
         <li><a href="docs/balance/books">Books</a></li>
     </ul>
 </div>

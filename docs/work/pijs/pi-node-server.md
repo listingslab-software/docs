@@ -1,6 +1,6 @@
 ## PiJS Node Server
 
-[Pi](./) | [Balance](../) | [Home](../../..)
+[Pi](./) | [Work](../) | [Home](../../..)
 
 ![PiJS](images/pi-logo.png "PiJS")
 

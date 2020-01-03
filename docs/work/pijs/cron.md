@@ -1,6 +1,6 @@
 ## Linux Cron time-based scheduler
 
-[Pi](./) | [Balance](../) | [Home](../../..)
+[Pi](./) | [Work](../) | [Home](../../..)
 
 ![Rapberry Pi](images/pi-logo.png "Rapberry Pi")
 
