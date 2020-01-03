@@ -5,10 +5,10 @@
 Backlog is the posh name for a To Do list.
 All new ideas or problems first find their way here
 
-- [ ] Graphics Docs
+- [x] Graphics Docs
   - [ ] SVG/JSX
   - [ ] Greensock
-- [ ] Storybook
+- [x] Storybook
   - [ ] New story `SiteSelect.jsx`
   - [ ] New story `WordPress.jsx`
 - [ ] [Pi Node Server](../tech/pi/pi-node-server)
