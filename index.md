@@ -22,7 +22,6 @@ layout: default
 <div class="third-wide">
     <h4><a href="docs/life">Life</a></h4>
     <ul>
-        <li><a href="docs/life/chuckengotchi">ChuckenGotchi</a></li>
         <li><a href="docs/life/film">Film</a></li>
         <li><a href="docs/life/food">Food</a></li>
     </ul>
