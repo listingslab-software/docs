@@ -1,6 +1,8 @@
-## ![PiJS](images/pi-logo.png "PiJS) PiJS Node Server
+## PiJS Node Server
 
 [Pi](./) | [Balance](../) | [Home](../../..)
+
+![PiJS](images/pi-logo.png "PiJS")
 
 ### Our custom PiJS Firmware
 

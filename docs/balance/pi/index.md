@@ -1,6 +1,8 @@
-## ![Rapberry Pi](images/pi-logo.png "Rapberry Pi") Rapberry Pi
+## PiJS
 
 [Balance](../) | [Home](../../..)
+
+![Rapberry Pi](images/pi-logo.png "Rapberry Pi")
 
 After 20 years in the software industry we've started to get involved with hardware. Specifically the Raspberry Pi.
 
