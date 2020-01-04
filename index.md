@@ -36,13 +36,13 @@ layout: default
 <div style="clear: both;"></div>
 
 <div class="half-wide">
-    <h5>Chickenheads</h5>
-    <p>In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called [chickenheads](docs/balance/chickenheads)</p>
+    <h5><a href="docs/balance/chickenheads">Chickenheads</a></h5>
+    <p>In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called chickenheads</p>
 </div>
 
 <div class="half-wide">
     <h5>Getting started?</h5>
-    <p>Keeping a set of publicly accessible, spell & sanity checked docs is hard, so please bear with us. We're using [github.io pages](https://pages.github.com) with the custom domain [docs.listingslab.com](https://docs.listingslab.com) and a custom theme. So when we say _Getting Started_, we mean us, not you. This [repository](https://github.com/listingslab-software/docs) is of course [Open Source](docs/tech/open-source) on GitHub, and PRs are welcome.</p>
+    <p>Keeping a set of publicly accessible, spell & sanity checked docs is hard, so please bear with us. We're using github.io pages with a custom domain and a customised jekyll theme. So when we say Getting Started, we mean us, not you. This repository is of course Open Source on GitHub. PRs are welcome.</p>
 </div>
 
 <div style="clear: both;"></div>
