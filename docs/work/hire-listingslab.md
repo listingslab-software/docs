@@ -11,13 +11,13 @@
 
 ```
 
-### Resume
+### Resume / Curriculum Vitae
 
 #### Chris Dorward
 
-Old Skool JavaScript Developer now creating a new breed of mobile app; Progressive Web Apps. This next gen tech has one codebase compiling to a single app which works on any viewport on any device. It also does not need to be installed via app stores.
+Old Skool JavaScript Developer born in the 1970s, now creating a new breed of mobile app; Progressive Web Apps. This next gen tech has one codebase compiling to a single app which works on any viewport on any device. It also does not need to be installed via app stores.
 
-#### Experience
+#### pr0 Experience
 
 - Listingslab Software, CTO  
    January 2005 - Present  
@@ -27,7 +27,7 @@ Old Skool JavaScript Developer now creating a new breed of mobile app; Progressi
    September 2018 - November 2019 (1 year 3 months)  
    Sydney, Australia
 
-Helping to lay the foundations of a full e2e, continuous integration testing solution using Cucumber/Gherkin and BDD for a suite of React PWAs.
+Laying the foundations of a full e2e, continuous integration testing solution using Cucumber/Gherkin and BDD for a suite of React PWAs.
 
 - Canon Australia, React Developer  
    March 2018 - August 2018 (6 months) Sydney
@@ -38,9 +38,7 @@ Development of a full airbnb clone peer to peer marketplace app as a React Progr
   April 2017 - March 2018 (1 year)
   Adelaide, Australia
 
-A team of ecommerce experts,
-delivering world-leading solutions.
-We make Magento fast, stable and flexible to meet your goals, now and into the future.
+Helping a team of ecommerce experts, deliver world-leading solutions making Magento fast, stable and flexible to meet business goals.
 
 - ustwo, Contract JavaScript Developer  
    January 2017 - February 2017 (2 months)
