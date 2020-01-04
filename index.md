@@ -22,16 +22,16 @@ layout: default
 <div class="third-wide">
     <h4><a href="docs/life">Life</a></h4>
     <ul>
-        <li><a href="docs/life/film">Film</a></li>
         <li><a href="docs/life/food">Food</a></li>
+        <li><a href="docs/life/film">Film</a></li>
+        <li><a href="docs/life/film">Music</a></li>
+        <li><a href="docs/life/books">Books</a></li>
     </ul>
+
 </div>
 
 <div class="third-wide">
     <h4><a href="docs/balance">Balance</a></h4>
-    <ul>
-        <li><a href="docs/balance/books">Books</a></li>
-    </ul>
 </div>
 
 <div style="clear: both;"></div>
