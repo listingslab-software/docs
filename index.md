@@ -22,7 +22,6 @@ layout: default
     <ul>
         <li><a href="docs/life/food">Food</a></li>
         <li><a href="docs/life/film">Film</a></li>
-        <li><a href="docs/life/film">Music</a></li>
         <li><a href="docs/life/books">Books</a></li>
     </ul>
 </div>
@@ -37,13 +36,13 @@ layout: default
 <div style="clear: both;"></div>
 
 <div class="half-wide">
-    > In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called [chickenheads](docs/balance/chickenheads)
+    <h5>Chickenheads</h5>
+    <p>In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called [chickenheads](docs/balance/chickenheads)</p>
 </div>
 
 <div class="half-wide">
-    ### Getting started?
-
-    Keeping a set of publicly accessible, spell & sanity checked docs is hard, so please bear with us. We're using [github.io pages](https://pages.github.com) with the custom domain [docs.listingslab.com](https://docs.listingslab.com) and a custom theme. So when we say _Getting Started_, we mean us, not you. This [repository](https://github.com/listingslab-software/docs) is of course [Open Source](docs/tech/open-source) on GitHub, and PRs are welcome.
+    <h5>Getting started?<h5>
+    <p>Keeping a set of publicly accessible, spell & sanity checked docs is hard, so please bear with us. We're using [github.io pages](https://pages.github.com) with the custom domain [docs.listingslab.com](https://docs.listingslab.com) and a custom theme. So when we say _Getting Started_, we mean us, not you. This [repository](https://github.com/listingslab-software/docs) is of course [Open Source](docs/tech/open-source) on GitHub, and PRs are welcome.</p>
 
 </div>
 

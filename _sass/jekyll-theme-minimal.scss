@@ -16,28 +16,33 @@ ul {
   margin: 0 auto;
 }
 header {
+  border: 1px solid green;
   width: 200px;
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
 }
-.half-wide {
-  margin: 8px;
-  float: left;
-  width: 400px;
-}
-.third-wide {
-  margin: 8px;
-  float: left;
-  width: 200px;
-}
 section {
+  border: 1px solid blue;
   width: 800px;
   float: right;
   padding-bottom: 50px;
 }
+.half-wide {
+  border: 1px solid red;
+  margin: 8px;
+  float: left;
+  width: 350px;
+}
+.third-wide {
+  border: 1px solid purple;
+  margin: 8px;
+  float: left;
+  width: 200px;
+}
 
 .footer {
+  border: 1px solid pink;
   max-width: 1024px;
   margin: auto;
   text-align: center;
