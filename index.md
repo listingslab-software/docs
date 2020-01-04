@@ -4,10 +4,6 @@ layout: default
 
 # Listingslab Docs
 
-## Choose your path, young Padwan
-
-> In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called **chickenheads**
-
 <div class="third-wide">
     <h4><a href="docs/work">Work</a></h4>
     <ul>
@@ -35,6 +31,10 @@ layout: default
 </div>
 
 <div style="clear: both;"></div>
+
+## Choose your path, young Padwan
+
+> In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called [chickenheads](docs/balance/chickenheads)
 
 ### Getting started?
 
