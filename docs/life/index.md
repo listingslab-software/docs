@@ -2,8 +2,9 @@
 
 [Home](../..)
 
-We've got a life, though
+Gotta have a life, innit
 
 - [Food](food)
 - [Books](books)
 - [Film](film)
+- [Music](music)
