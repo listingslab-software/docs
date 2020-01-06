@@ -2,8 +2,9 @@
 
 [Home](../..)
 
-We've got a life, though
+Gotta have a life, innit
 
-- [Film](film)
 - [Food](food)
-- [ChuckenGotchi](chuckengotchi)
+- [Books](books)
+- [Film](film)
+- [Music](music)

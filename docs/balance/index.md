@@ -4,4 +4,5 @@
 
 This too shall pass
 
-- [Books](books)
+- [Chickenheads](chickenheads)
+- [Another earthbound sapient species](sapient-species)
