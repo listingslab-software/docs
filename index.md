@@ -10,6 +10,7 @@ layout: default
 
 <div class="third-wide">
     <ul>
+        <li><a href="docs/work/user-entity">User Entity</a></li>
         <li><a href="docs/work/pijs">PiJS</a></li>
         <li><a href="docs/work/javascript">JavaScript</a></li>
         <li><a href="docs/work/git">Git</a></li>

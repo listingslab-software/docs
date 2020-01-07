@@ -5,6 +5,7 @@
 Yeh, we do have to [work sometimes](hire-listingslab). Ho hum.
 Often we work [Open Source](open-source) and that is far more fun.
 
+- [User Entity](user-entity)
 - [PiJS](pijs)
 - [JavaScript](javascript)
 - [Git](git)
