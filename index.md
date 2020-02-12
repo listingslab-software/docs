@@ -34,6 +34,10 @@ layout: default
 </div>
 
 <div style="clear: both;"></div>
+<div class="half-wide">
+    <h5><a href="docs/work/ProgressiveWebApps">Progressive Web Apps</a></h5>
+    <p>An introduction</p>
+</div>
 
 <div class="half-wide">
     <h5><a href="docs/balance/chickenheads">Chickenheads</a></h5>
