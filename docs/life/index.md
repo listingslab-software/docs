@@ -2,9 +2,8 @@
 
 [Home](../..)
 
-Gotta have a life, innit
+Gotta have a life
 
 - [Food](food)
 - [Books](books)
 - [Film](film)
-- [Music](music)

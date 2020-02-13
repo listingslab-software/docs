@@ -14,8 +14,6 @@ The business already has a desktop site, an android app and an iphone app. None 
 
 Even if this conversation were real, there is nowhere is can really go. No company is going to take the risk to rock the boat that they've spent years patching together. Fair enough. Would you?
 
-Seedscanner is different because it's _greenfield_. The holy grail for an old skool developer like me :)
-
 ### The conversation
 
 **Me:** Hey bob, are you ready for our meeting?
