@@ -29,7 +29,7 @@ layout: default
 <div class="third-wide">
     <ul>
         <li><a href="docs/balance/chickenheads">Chickenheads</a></li>
-        <li><a href="docs/balance/sapient-species">Another Earthbound sapient species</a></li>
+        <li><a href="docs/balance/sapient-species">Science Fiction</a></li>
     </ul>
 </div>
 
@@ -37,7 +37,7 @@ layout: default
 
 <div class="half-wide">
     <h5><a href="docs/work/ProgressiveWebApps">Progressive Web Apps</a></h5>
-    <p>This is an imagined conversation between **me** and **Bob**, **Me** being a front-end software engineer with 20 years of real world dev experience and a healthy scepticism that the kind of business person I'm talking to really has the ability, authority, acency, skill or will to actually implement what I'm talking about, even if they understand it enough to see why they should do it.</p>
+    <p>This is an imagined conversation between <strong>me</strong> and <strong>Bob</strong> <strong>Me</strong> being a front-end software engineer with 20 years of real world dev experience and a healthy scepticism that the kind of business person I'm talking to really has the ability, authority, acency, skill or will to actually implement what I'm talking about, even if they understand it enough to see why they should do it</p>
 </div>
 
 <div class="half-wide">
