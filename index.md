@@ -8,6 +8,7 @@ layout: default
 
 <div class="third-wide">
     <ul>
+        <li><a href="docs/work/ProgressiveWebApps">PWA</a></li>
         <li><a href="docs/work/user-entity">User Entity</a></li>
         <li><a href="docs/work/pijs">PiJS</a></li>
         <li><a href="docs/work/javascript">JavaScript</a></li>
@@ -33,6 +34,7 @@ layout: default
 </div>
 
 <div style="clear: both;"></div>
+
 <div class="half-wide">
     <h5><a href="docs/work/ProgressiveWebApps">Progressive Web Apps</a></h5>
     <p>This is an imagined conversation between **me** and **Bob**, **Me** being a front-end software engineer with 20 years of real world dev experience and a healthy scepticism that the kind of business person I'm talking to really has the ability, authority, acency, skill or will to actually implement what I'm talking about, even if they understand it enough to see why they should do it.</p>
