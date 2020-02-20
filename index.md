@@ -40,7 +40,7 @@ layout: default
 
 <div class="half-wide">
     <h5><a href="docs/balance/chickenheads">yarn run</a></h5>
-    <img style={ width: 100% } src="docs/media/yarn_run.png" />
+    <img class="doc-image" src="docs/media/yarn_run.png" />
 </div>
 
 <div class="half-wide">
