@@ -5,6 +5,8 @@
 Yeh, we do have to [work sometimes](hire-listingslab). Ho hum.
 Often we work [Open Source](open-source) and that is far more fun.
 
+- [Pro JavaScript Tips & Tricks](pro-js-tips)
+- [Open Source](open-source)
 - [Progressive Web Apps](ProgressiveWebApps)
 - [JavaScript](javascript)
 - [Git](git)
