@@ -6,8 +6,15 @@ layout: default
 
 [Work](docs/work) | [Life](docs/life) | [Balance](docs/balance)
 
+> New... <a href="docs/work/pro-js-tips"> Pr0 JavaScript Tips & Tricks</a>
+
+<div class="third-wide">
+    <img style={ width: 100% } src="docs/media/yarn_run.png" />
+</div>
+
 <div class="third-wide">
     <ul>
+        <li><a href="docs/work/pro-js-tips"> Pro JavaScript Tips & Tricks</a></li>
         <li><a href="docs/work/ProgressiveWebApps">PWA</a></li>
         <li><a href="docs/work/user-entity">User Entity</a></li>
         <li><a href="docs/work/pijs">PiJS</a></li>

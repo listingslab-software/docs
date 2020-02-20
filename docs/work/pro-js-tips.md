@@ -1,4 +1,4 @@
-## Pro JavaScript Tips & Tricks
+## Pr0 JavaScript Tips & Tricks
 
 [Work](./) | [Home](../..)
 
@@ -13,3 +13,5 @@ This yarn command is very under used. What it does is to give you direct access 
 ```bash
 yarn run
 ```
+
+![yarn run](../media/yarn_run.png)
