@@ -9,10 +9,6 @@ layout: default
 > New... <a href="docs/work/pro-js-tips"> Pr0 JavaScript Tips & Tricks</a>
 
 <div class="third-wide">
-    <img style={ width: 100% } src="docs/media/yarn_run.png" />
-</div>
-
-<div class="third-wide">
     <ul>
         <li><a href="docs/work/pro-js-tips"> Pro JavaScript Tips & Tricks</a></li>
         <li><a href="docs/work/ProgressiveWebApps">PWA</a></li>
@@ -41,6 +37,11 @@ layout: default
 </div>
 
 <div style="clear: both;"></div>
+
+<div class="half-wide">
+    <h5><a href="docs/balance/chickenheads">yarn run</a></h5>
+    <img style={ width: 100% } src="docs/media/yarn_run.png" />
+</div>
 
 <div class="half-wide">
     <h5><a href="docs/work/ProgressiveWebApps">Progressive Web Apps</a></h5>
