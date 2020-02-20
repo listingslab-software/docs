@@ -39,23 +39,19 @@ layout: default
 <div style="clear: both;"></div>
 
 <div class="half-wide">
-    <h5><a href="docs/work/pro-js-tips">yarn run</a></h5>
-    <img class="doc-image" src="/docs/media/yarn_run.png" />
-</div>
-
-<div class="half-wide">
     <h5><a href="docs/work/ProgressiveWebApps">Progressive Web Apps</a></h5>
     <p>This is an imagined conversation between <strong>me</strong> and <strong>Bob</strong> <strong>Me</strong> being a front-end software engineer with 20 years of real world dev experience and a healthy scepticism that the kind of business person I'm talking to really has the ability, authority, acency, skill or will to actually implement what I'm talking about, even if they understand it enough to see why they should do it</p>
-</div>
 
-<div class="half-wide">
-    <h5><a href="docs/balance/chickenheads">Chickenheads</a></h5>
-    <p>In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called chickenheads</p>
+    <h5><a href="docs/work/pro-js-tips">yarn run</a></h5>
+    <img class="doc-image" src="/docs/media/yarn_run.png" />
+
 </div>
 
 <div class="half-wide">
     <h5>Getting started?</h5>
     <p>Keeping a set of publicly accessible, spell & sanity checked docs is hard, so please bear with us. We're using github.io pages with a custom domain and a customised jekyll theme. So when we say Getting Started, we mean us, not you. This repository is of course Open Source on GitHub. PRs are welcome.</p>
+    <h5><a href="docs/balance/chickenheads">Chickenheads</a></h5>
+    <p>In Philip K. Dick's 1968 novel "Do Androids Dream of Electric Sheep?" which later was kind of renamed and made into Blade Runner we see a post apocalyptic world where there is a subclass of people who fail to reach a baseline level of intelligence. These people are called chickenheads</p>
 </div>
 
 <div style="clear: both;"></div>
