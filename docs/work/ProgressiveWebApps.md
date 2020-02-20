@@ -38,7 +38,7 @@ Oh yeh, and theres my boss, Head Of Development is who is stupily busy every min
 
 **Bob:** Sounds great, Chris. But it also sounds like a sales pitch and I've heard it all before, trust me. What is this one issue that rules them all?
 
-**Me:** It is the fact that you have 3 different codebases, and are maintaining 3 different pieces of software. That is hard to do and leads to the product having different features on different platforms. Customer support is 3 times harder. Project Management is more complex as there are 3 projects. Developmnet costs are higher because you need a wide range of coder skills to do what you're doing.
+**Me:** It is the fact that you have 3 different codebases, maintaining 3 different pieces of software. That is hard to do and leads to the product having different features on different platforms. Customer support is 3 times harder. Project Management is more complex as there are 3 projects. Developmnet costs are higher because you need a wide range of coder skills to do what you're doing.
 
 **Bob:** Well, yes, obviously. But that's because in order for our apps to be able to run on phones with the features we need we need a native app which is distributed and updated via the App Stores so that they can be installed by our customers. You can't avoid having 3 separate apps.
 
