@@ -39,8 +39,8 @@ layout: default
 <div style="clear: both;"></div>
 
 <div class="half-wide">
-    <h5><a href="docs/balance/chickenheads">yarn run</a></h5>
-    <img class="doc-image" src="docs/media/yarn_run.png" />
+    <h5><a href="docs/work/pro-js-tips">yarn run</a></h5>
+    <img class="doc-image" src="/docs/media/yarn_run.png" />
 </div>
 
 <div class="half-wide">
