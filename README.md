@@ -1,3 +1,3 @@
-![Advicator Logo](./docs/media/png/advicator_header.png) 
+![Logo](./docs/media/png/greybeard_header.png) 
 
 > # [START HERE](./docs)
