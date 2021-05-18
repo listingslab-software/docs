@@ -1,4 +1,4 @@
-![Advicator Logo](../media/svg/avatars/biker.svg)  
+![Logo](../media/svg/avatars/biker.svg)  
 ## Unix 
 [Home](../../README.md)  
 

@@ -1,4 +1,4 @@
-![Advicator Logo](../public/png/Logo50h.png)  
+![Logo](../public/png/Logo50h.png)  
 
 ## Source
 [Home](../../README.md) 
