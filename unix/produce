@@ -1,0 +1,8 @@
+#!/bin/bash
+# chmod ug+x produce
+clear
+
+echo 'produce >'
+echo 'Builds output directory...'
+
+cd ./pwa && yarn build

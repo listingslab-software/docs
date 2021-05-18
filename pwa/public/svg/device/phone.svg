@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pushToTalk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" fill="#FFFFFF">
+            <rect id="invisible" fill-opacity="0.01" x="0" y="0" width="512" height="512"></rect>
+            <g id="iphone" transform="translate(154.000000, 95.000000)" fill-rule="nonzero">
+                <path d="M155.076923,0 L36.9230769,0 C16.5415385,0 0,16.4945455 0,36.8181818 L0,287.181818 C0,307.505455 16.5415385,324 36.9230769,324 L155.076923,324 C175.458462,324 192,307.505455 192,287.181818 L192,36.8181818 C192,16.4945455 175.458462,0 155.076923,0 Z M96,309.272727 C83.7415385,309.272727 73.8461538,299.405455 73.8461538,287.181818 C73.8461538,274.958182 83.7415385,265.090909 96,265.090909 C108.258462,265.090909 118.153846,274.958182 118.153846,287.181818 C118.153846,299.405455 108.258462,309.272727 96,309.272727 Z M162.461538,250.363636 L29.5384615,250.363636 L29.5384615,44.1818182 L162.461538,44.1818182 L162.461538,250.363636 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

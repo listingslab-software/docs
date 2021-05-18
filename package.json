@@ -1,0 +1,15 @@
+{
+  "name": "docs",
+  "version": "1.0.7",
+  "repository": "https://bitbucket.org/advicator_jira/advicator-docs",
+  "author": "Advicator <chris@advicator.com>",
+  "license": "MIT",
+  "scripts": {
+    "setup": "$PWD/unix/setup",
+    "produce": "$PWD/unix/produce",
+    "deploy": "$PWD/unix/firebase",
+    "git": "$PWD/unix/git",
+    "dev:pwa": "$PWD/unix/dev ./pwa",
+    "build:pwa": "$PWD/unix/build ./pwa"
+  }
+}

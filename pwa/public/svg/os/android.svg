@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pushToTalk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" fill="#FFFFFF">
+            <rect id="invisible" fill-opacity="0.01" x="0" y="0" width="512" height="512"></rect>
+            <g id="Android_robot" transform="translate(149.000000, 118.000000)" fill-rule="nonzero">
+                <g id="Group">
+                    <g id="b-link" transform="translate(39.090909, 19.576471)" stroke="#FFFFFF" stroke-width="14.4">
+                        <g id="b">
+                            <ellipse id="Oval" cx="68.4090909" cy="63.2470588" rx="68.4090909" ry="63.2470588"></ellipse>
+                            <rect id="Rectangle" x="0" y="47.4352941" width="136.818182" height="137.035294" rx="22"></rect>
+                        </g>
+                    </g>
+                    <g id="a-link" transform="translate(136.500000, 128.500000) scale(-1, 1) translate(-136.500000, -128.500000) translate(58.000000, 0.000000)" stroke="#FFFFFF" stroke-width="7.2">
+                        <g id="a">
+                            <path d="M136.628429,-1.24539298 C139.329162,-1.24357642 141.518085,0.945347788 141.5199,3.64608105 L141.556831,58.5985368 C141.558643,61.2945797 139.374537,63.4816232 136.678494,63.483435 C136.676306,63.4834365 136.674118,63.4834365 136.67193,63.483435 C133.971197,63.4816185 131.782274,61.2926943 131.780459,58.591961 L131.743528,3.63950528 C131.741716,0.943462349 133.925822,-1.2435811 136.621865,-1.24539298 C136.624053,-1.24539445 136.626241,-1.24539445 136.628429,-1.24539298 Z" id="Rectangle" transform="translate(136.650179, 31.119021) rotate(29.000000) translate(-136.650179, -31.119021) "></path>
+                            <rect id="c" x="0" y="82.8235294" width="36.0839161" height="100.141176" rx="18.041958"></rect>
+                            <g id="c-link" transform="translate(63.898601, 155.858824)">
+                                <rect id="c" x="0" y="0" width="36.0839161" height="100.141176" rx="18.041958"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="a" stroke="#FFFFFF" stroke-width="7.2">
+                        <path d="M136.628429,-1.24539298 C139.329162,-1.24357642 141.518085,0.945347788 141.5199,3.64608105 L141.556831,58.5985368 C141.558643,61.2945797 139.374537,63.4816232 136.678494,63.483435 C136.676306,63.4834365 136.674118,63.4834365 136.67193,63.483435 C133.971197,63.4816185 131.782274,61.2926943 131.780459,58.591961 L131.743528,3.63950528 C131.741716,0.943462349 133.925822,-1.2435811 136.621865,-1.24539298 C136.624053,-1.24539445 136.626241,-1.24539445 136.628429,-1.24539298 Z" id="Rectangle" transform="translate(136.650179, 31.119021) rotate(29.000000) translate(-136.650179, -31.119021) "></path>
+                        <rect id="c" x="0" y="82.8235294" width="36.0839161" height="100.141176" rx="18.041958"></rect>
+                        <g id="c-link" transform="translate(63.898601, 155.858824)">
+                            <rect id="c" x="0" y="0" width="36.0839161" height="100.141176" rx="18.041958"></rect>
+                        </g>
+                    </g>
+                    <g id="b" transform="translate(39.090909, 19.576471)">
+                        <ellipse id="Oval" cx="68.4090909" cy="63.2470588" rx="68.4090909" ry="63.2470588"></ellipse>
+                        <rect id="Rectangle" x="0" y="47.4352941" width="136.818182" height="137.035294" rx="22"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

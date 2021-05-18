@@ -1,0 +1,7 @@
+#!/bin/bash
+# chmod ug+x git
+clear
+echo 'git > stages & commit changes to current pange and push to origin'
+echo 'BTW... This is not considered good practice'
+
+git add . && git commit -m '1.0.7' && git push

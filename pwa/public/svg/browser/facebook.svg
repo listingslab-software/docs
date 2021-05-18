@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pushToTalk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon">
+            <rect id="invisible" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="512" height="512"></rect>
+            <g id="Facebook" transform="translate(140.000000, 140.000000)" fill-rule="nonzero">
+                <path d="M220.141093,233 C227.241835,233 233,227.24188 233,220.139384 L233,12.8597115 C233,5.75631211 227.242739,0 220.141093,0 L12.8598113,0 C5.75635678,0 0,5.75631211 0,12.8597115 L0,220.139384 C0,227.240976 5.75545269,233 12.8598113,233 L220.141093,233 Z" id="Blue_1_" fill="#FFFFFF"></path>
+                <path d="M160.856357,234 L160.856357,143.682607 L191.223689,143.682607 L195.770766,108.484316 L160.856357,108.484316 L160.856357,86.0124317 C160.856357,75.8217144 163.691028,68.8770767 178.329426,68.8770767 L197,68.8689321 L197,37.3872986 C193.770995,36.9583491 182.687948,36 169.793684,36 C142.874734,36 124.445292,52.403245 124.445292,82.5265385 L124.445292,108.484316 L94,108.484316 L94,143.682607 L124.445292,143.682607 L124.445292,234 L160.856357,234 Z" id="f" fill="#3C5A99"></path>
+            </g>
+        </g>
+    </g>
+</svg>

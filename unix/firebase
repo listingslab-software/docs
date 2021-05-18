@@ -1,0 +1,8 @@
+#!/bin/bash
+# chmod ug+x firebase
+clear
+
+echo 'firebase >'
+echo 'Deploy to Google Cloud (requires Auth)...'
+
+firebase deploy --only hosting

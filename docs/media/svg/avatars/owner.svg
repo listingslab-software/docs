@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>owner</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="owner" fill-rule="nonzero">
+            <rect id="invisible" stroke="#FFFFFF" fill-opacity="0" fill="#000000" x="0.5" y="0.5" width="511" height="511"></rect>
+            <g id="Blokey" transform="translate(90.000000, 52.000000)" fill="#18A2AD">
+                <circle id="Oval" cx="163" cy="41" r="41"></circle>
+                <path d="M242.015281,124.644 C234.077017,116.688 220.439487,102 193.978606,102 C189.704157,102 165.075183,102 142.278117,102 C86.3031782,101.796 40.7090463,56.1000001 40.7090463,0 L0,0 C0,64.464 42.9480439,119.136 101.772616,136.884 L101.772616,408 L142.481663,408 L142.481663,285.6 L183.190709,285.6 L183.190709,408 L223.899755,408 L223.899755,164.22 L304.300121,244.8 L333,216.036 L242.015281,124.644 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

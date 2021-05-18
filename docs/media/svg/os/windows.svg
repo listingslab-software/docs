@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pushToTalk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" fill="#FFFFFF">
+            <rect id="invisible" fill-opacity="0.01" x="0" y="0" width="512" height="512"></rect>
+            <g id="Windows_logo_-_2012" transform="translate(128.000000, 118.000000)" fill-rule="nonzero">
+                <path d="M0,36.3869399 L104.619084,22.1273201 L104.664817,123.122936 L0.0955693151,123.718911 L0,36.3869399 Z M104.569248,134.759598 L104.650452,235.843233 L0.0812046021,221.454812 L0.0753414539,134.081561 L104.569248,134.759598 Z M117.25153,20.2619099 L255.967753,0 L255.967753,121.83845 L117.25153,122.940591 L117.25153,20.2619099 Z M256,135.7102 L255.96746,257 L117.251237,237.405859 L117.056874,135.483112 L256,135.7102 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
