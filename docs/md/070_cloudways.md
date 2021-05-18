@@ -1,4 +1,4 @@
-![Advicator Logo](../media/png/advicator_header.png)  
+![Advicator Logo](../media/png/greybeard_header.png)  
 ## Cloudways
 [Home](../../README.md) 
 
