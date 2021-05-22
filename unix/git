@@ -4,4 +4,4 @@ clear
 echo 'git > stages & commit changes to current pange and push to origin'
 echo 'BTW... This is not considered good practice'
 
-git add . && git commit -m '1.0.7' && git push
+git add . && git commit -m '1.0.8' && git push

@@ -1,8 +1,8 @@
 {
   "name": "docs",
-  "version": "1.0.7",
-  "repository": "https://bitbucket.org/advicator_jira/advicator-docs",
-  "author": "Advicator <chris@advicator.com>",
+  "version": "1.0.8",
+  "repository": "https://github.com/listingslab-software/docs",
+  "author": "listingslab <listingslab@gmail.com>",
   "license": "MIT",
   "scripts": {
     "setup": "$PWD/unix/setup",

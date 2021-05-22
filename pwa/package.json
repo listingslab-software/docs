@@ -1,6 +1,6 @@
 {
   "name": "pwa-docs",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React PWA for markdown repos",
   "repository": "https://bitbucket.org/advicator_jira/advicator-docs",
   "author": "Advicator <chris@advicator.com>",
